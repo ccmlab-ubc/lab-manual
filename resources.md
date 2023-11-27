@@ -14,6 +14,9 @@
 ### Unix Shell
 
 ## Statistics
+- Statistical Rethinking
+- Doing Bayesian Data Analysis
+- Aubrey Clayton
 
 ## Writing
 

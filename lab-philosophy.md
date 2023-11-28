@@ -9,21 +9,20 @@ Scientific research is extremely rewarding, but it does come with a large set of
 One of the most rewarding aspects of scientific research is the collaborative nature of the work. A lab makes meaningful strides when a small collective of individuals works together with the common purpose of making new discoveries and the shared goal of helping to make those around themselves better. The following are some guiding principles to help us all be successful: 
 
 **1) Scientific integrity**
-- Avoid shortcuts
-- Put your best effort forward on each project&mdash;the overall quality of your work is determined in large part by your attention to details
-- Think deeply about projects - follow [Richard Feynman’s advice](http://calteches.library.caltech.edu/51/2/CargoCult.htm): “You must not fool yourself&mdash;and you are the easiest person to fool.” 
+- Take the extra time to make your work thorough, systematic, and reproducible (see point 3)&mdash;while it may take more time up front, this advice will save you loads of time in the long run when you're not scrambling to figure out how a piece of code works, how to fix a figure, where a file is stored, etc.
+- Think deeply about projects&mdash;take the time to think through the validity of a hypothesis/method/result, and try to follow-up on your questions by designing a new experiment or model
 
-**2) Take responsibility for your own work**
-- Take ownership of individual and group projects and ask questions during one-on-one meetings, lab meetings, seminars, etc.
-- Continuously question assumptions and think through the validity of a hypothesis/method/result 
-- Admit mistakes - we all make them and, no matter how painful they are, we learn from them and do better the next time 
+**2) Learn to lead**
+- Ask your questions during one-on-one meetings, lab meetings, seminars, etc.&mdash;you know better than anyone what you need to make progress
+- Don't be afraid of mistakes&mdash;we all make them and, no matter how painful they are, we learn from them and do better the next time 
+- Share, and teach, what you know to others
 
 **3) Be a good scientific citizen**
 - Practice [open science](https://www.cos.io/)
 - Stay up-to-date on the literature
 - Support our lab mates/colleagues/department by attending talks, seminars, and vounteering to help
-- When providing feedback, focus more on problem solving than critique
-- Volunteer to give talks, lead journal club discussions, and be an advocate for science
+- When providing feedback, focus on problem solving rather than critique
+- Volunteer to give talks, lead journal club discussions, and, overall, be an advocate for science
            
 
 ## Expectations and Responsibilities
@@ -42,25 +41,19 @@ One of the most rewarding aspects of scientific research is the collaborative na
 - Help mentor undergraduates in the lab
 - Present your work regularly at lab meetings, seminars, and conferences
 - Apply for scholarships/grants
+- Maintain human ethics approvals, archive old consent forms, keep any required paperwork up to date and organized
 - Think about what you want for your career and communicate with Hyosub about how to accomplish your goals
   
 ### Undergraduate students
 - Assist other lab members with data collection and analysis
-- Develop your weekly schedule by talking to your graduate student mentor(s) of Hyosub
+- Assist with recruitment and scheduling of participants
+- Develop your weekly schedule by talking to your graduate student mentor(s) or Hyosub
 - Come in every week and commit enough time to get work done
 - If you are earning course credit, you should also attend lab meetings (as your schedule permits), present at 1 lab meeting, and submit a write-up of your research work by the end of the semester  
 
-### Lab manager
-- Help new lab members adjust to the lab by answering their questions or directing their questions to Hyosub
-- Maintain human ethics approvals for the lab with help from PhD students, archive old consent forms, keep any required paperwork up to date and organized
-- Help oversee hiring, scheduling, and training of undergraduate research assistants
-- Help maintain and manage the lab website, manual, GitHub page, calendars, OneDrive, and e-mail account 
-- Assist with the recruitment and scheduling of participants, including patients
-- Assist lab members with data collection and analysis 
-
 
 ## Acknowledgments
-Thanks to the following people for sharing their lab webpages and manuals, all of which helped me develop this page: 
+Thanks to the following people for sharing their lab webpages and manuals: 
 - [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)
 - [Gunnar Blohm](http://compneurosci.com/wiki/index.php/Main_Page)
 - [Wei Ji Ma](https://www.cns.nyu.edu/malab/lablife.html)

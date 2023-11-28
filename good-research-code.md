@@ -1,4 +1,4 @@
-### **Good Research Code** ###  
+# Good research code 
 The following practices were adopted from Patrick Mineault's great book [Good Research Code][1]. I've added a few minor details and assume you are interfacing with GitHub through git commands in the Terminal. 
 
 When starting a new project, follow these steps to keep your project organized:  

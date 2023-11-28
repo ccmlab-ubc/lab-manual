@@ -1,16 +1,18 @@
 # Starting a project
-The following practices were adopted from Patrick Mineault's great book [Good Research Code](https://goodresearch.dev/). I've added a few minor details and assume you are interfacing with GitHub through git commands in the Terminal. 
+The following practices were adopted from Patrick Mineault's great book [Good Research Code](https://goodresearch.dev/). I've added a few minor details and assume you are interfacing with GitHub through git commands in the Terminal (see [Resources](resources) page). 
 
 When starting a new project, follow these steps to keep your project organized:  
 
-**1) Import a simple project skeleton.** From the Terminal, go to your local GitHub directory and find your projects folder (may just be the directory labeled 'GitHub', as it is on my computer) and import the CCM Lab's cookiecutter skeleton. For example:
+**1) Import a simple project skeleton.** From the Terminal, go to your local GitHub directory (may just be the directory labeled 'GitHub', as it is on my computer) and import the CCM Lab's cookiecutter project skeleton. For example:
 
-\\$ cd documents/github/projects  
-\\$ cookiecutter gh:ccmlab-ubc/project-template
+```
+$ cd documents/github/projects  
+$ cookiecutter gh:ccmlab-ubc/project-template
+```
 
-If you've downloaded before and are asked if it's okay to delete and download again, choose 'yes'.   
+If you've downloaded this before and are asked if it's okay to delete and download again, choose 'yes'.   
 
-**2) Follow the directions given in the Terminal following import of the project skeleton.** Specifically, you will want to cd into your new project directory. Next, you will create a virtual environment for your project (give it same name as project) by typing in:  
+**2) Follow the directions given in the Terminal following import of the project skeleton.** Specifically, you will want to go to your new project directory. Next, you will create a virtual environment for your project (give it same name as project) by typing in:  
 \\$ conda create --name MY_PROJECT python=3.11  
 Then activate the new virtual environment:  
 \\$ conda activate MY_PROJECT  

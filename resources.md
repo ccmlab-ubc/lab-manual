@@ -1,3 +1,4 @@
+(resources)=
 # Resources
 
 ## Coding
@@ -22,6 +23,7 @@
 - [Doing Bayesian Data Analysis]((https://sites.google.com/site/doingbayesiandataanalysis/home?authuser=0) by John Kruschke
 - YouTube reading course on E.T. Jaynes' [Probability Theory: The Logic of Science](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) taught by Aubrey Clayton
 
+
 ## Git and GitHub
 - [Version Control with Git](https://swcarpentry.github.io/git-novice/) from Software Carpentry
 - [The Turing Way](https://the-turing-way.netlify.app/index.html) - online book covering best practices in data science; also has specific [chapter on version control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)  
@@ -31,7 +33,7 @@
 - [The Unix Shell](https://swcarpentry.github.io/shell-novice/) from Software Carpentry
 
 
-## LaTeX
+## $\LaTeX$
 - [Overleaf](https://www.overleaf.com/) - user-friendly LaTeX editor
 - [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Introduction to LaTeX for Jupyter notebooks](http://chebe163.caltech.edu/2018w/handouts/intro_to_latex.html)

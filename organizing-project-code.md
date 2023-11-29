@@ -1,4 +1,4 @@
-# Starting a project
+# Organizing project code
 The following practices were adopted from Patrick Mineault's great book [Good Research Code](https://goodresearch.dev/). I've added a few minor details and assume you are interfacing with GitHub through git commands in the Terminal (see [Resources](resources) page). When starting a new project, follow these steps to keep your project organized:  
 
 ## Step 1: Import a simple project template.

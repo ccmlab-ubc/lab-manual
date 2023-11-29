@@ -1,0 +1,37 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption: Lab Philosophy
+    chapters:
+    - file: lab-philosophy
+      
+  - caption: Onboarding
+    chapters:
+    - file: onboarding
+     
+  - caption: Running Experiments
+    chapters:
+    - file: running-experiments
+  
+  - caption: Organizing Project Code
+    chapters:
+    - file: organizing-project-code
+  
+  - caption: Reading List
+    chapters:
+    - file: reading-list
+    
+  - caption: Resources
+    chapters:
+    - file: resources
+    
+
+  
+
+  
+  
+  
+

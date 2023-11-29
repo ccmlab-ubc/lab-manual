@@ -12,7 +12,6 @@ One of the most rewarding aspects of scientific research is the collaborative na
 - Take the extra time to make sure your work is thorough, systematic, and reproducible (see point 3). While it may take more time up front, this advice will save you loads of time (and stress) in the long run when you're not scrambling to figure out how a piece of code works, how to fix a figure, where a file is stored, etc. 
 - Think deeply about your projects. Think through the validity of a hypothesis/method/result and, ideally, try to follow-up on your questions by designing a new experiment or model.
 
-
 ### 2) Learn to lead
 - Ask your questions during one-on-one meetings, lab meetings, seminars, etc. You know better than anyone what you need to make progress.
 - Don't be afraid of mistakes&mdash;we all make them and, no matter how painful they are, we learn from them and do better the next time. 
@@ -20,10 +19,9 @@ One of the most rewarding aspects of scientific research is the collaborative na
 
 ### 3) Be a good scientific citizen
 - Practice [open science](https://www.cos.io/).
-- Stay up-to-date on the literature.
-- Support our lab mates/colleagues/department by attending talks, seminars, and vounteering to help.
+- Volunteer to give talks, lead journal club discussions, and be a science advocate.
+- Volunteer to be a mentor, especially for programs that target providing more research opportunities for underrepresented groups in STEM.
 - When providing feedback, focus on problem solving rather than critique.
-- Volunteer to give talks, lead journal club discussions, and, overall, be an advocate for science.
            
 ---
 ## Expectations and Responsibilities
@@ -54,7 +52,7 @@ One of the most rewarding aspects of scientific research is the collaborative na
 
 ---
 ## Acknowledgments
-Thanks to the following people for sharing their thoughts on running a lab: 
+Thanks to the following people for sharing their helpful thoughts on running a lab: 
 - [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)
 - [Gunnar Blohm](http://compneurosci.com/wiki/index.php/Main_Page)
 - [Wei Ji Ma](https://www.cns.nyu.edu/malab/lablife.html)

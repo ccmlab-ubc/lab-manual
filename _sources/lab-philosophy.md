@@ -13,8 +13,8 @@ One of the most rewarding aspects of scientific research is the collaborative na
 - Think deeply about your projects. Think through the validity of a hypothesis/method/result and, ideally, try to follow-up on your questions by designing a new experiment or model.
 
 ### 2) Learn to lead
-- Ask your questions during one-on-one meetings, lab meetings, seminars, etc. You know better than anyone what you need to make progress.
-- Don't be afraid of mistakes&mdash;we all make them and, no matter how painful they are, we learn from them and do better the next time. 
+- This is specifically in reference to your research projects, education, and career. Ask your questions during one-on-one meetings, lab meetings, seminars, etc. You know better than anyone what you need to make progress.
+- Don't let the fear of making a "mistake" prevent you from trying something, especially something new and potentially helpful to you in the long run. Besides, we all make mistakes, and no matter how silly they may seem in hindsight, we learn from them and do better the next time. As the late, great [Miles Davis](https://www.youtube.com/watch?v=zqNTltOGh5c) said: “It’s not the note you play that’s the wrong note&mdash;it’s the note you play afterwards that makes it right or wrong.”  
 - Share, and teach, what you know to others.
 
 ### 3) Be a good scientific citizen

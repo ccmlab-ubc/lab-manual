@@ -1,9 +1,9 @@
 # Onboarding
 
-Under construction.
+![](underconstruction.svg)
 
 ## Contact information
-Lab: Osborne - Unit 2, Room   
+Testing Room: Osborne - Unit 2, Room 203  
 Office: Osborne - Unit 1, Room 214  
 Email: hyosub.kim@ubc.ca  
 Phone: 604-822-9964  

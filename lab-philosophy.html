@@ -1,0 +1,605 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Lab Philosophy &#8212; CCM Lab Manual</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=365ca57ee442770a23c6" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=365ca57ee442770a23c6"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'lab-philosophy';</script>
+    <link rel="shortcut icon" href="_static/favicon.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Onboarding" href="onboarding.html" />
+    <link rel="prev" title="Welcome!" href="intro.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">CCM Lab Manual</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Welcome!
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Lab Philosophy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="onboarding.html">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="running-experiments.html">Running experiments</a></li>
+<li class="toctree-l1"><a class="reference internal" href="organizing-project-code.html">Organizing project code</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reading-list.html">Reading List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="resources.html">Resources</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/ccmlab-ubc/lab-manual" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/ccmlab-ubc/lab-manual/issues/new?title=Issue%20on%20page%20%2Flab-philosophy.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/lab-philosophy.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Lab Philosophy</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mission-statement">Mission Statement</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-big-picture">The Big Picture</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#scientific-integrity">1) Scientific integrity</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#learn-to-lead">2) Learn to lead</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#be-a-good-scientific-citizen">3) Be a good scientific citizen</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#expectations-and-responsibilities">Expectations and Responsibilities</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#principal-investigator-hyosub-kim">Principal Investigator: Hyosub Kim</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#graduate-students">Graduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#undergraduate-students">Undergraduate students</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgments">Acknowledgments</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="lab-philosophy">
+<h1>Lab Philosophy<a class="headerlink" href="#lab-philosophy" title="Permalink to this heading">#</a></h1>
+<section id="mission-statement">
+<h2>Mission Statement<a class="headerlink" href="#mission-statement" title="Permalink to this heading">#</a></h2>
+<p>Our lab aims to shed light on fundamental principles of human motor control and learning during both health and disease. To this end, we develop theories that are formalized, tested, and refined by combining computational modeling and behavioral experiments. We strive to practice open science and will develop open-source software to improve scientific rigor, regardless of discipline. All of this will be accomplished in a welcoming and collaborative environment that serves as a training ground for a diverse group of creative scientists.</p>
+</section>
+<section id="the-big-picture">
+<h2>The Big Picture<a class="headerlink" href="#the-big-picture" title="Permalink to this heading">#</a></h2>
+<p>Scientific research is extremely rewarding, but it does come with a large set of challenges. A helpful strategy to develop early on (and one that I continue to work on) is to learn to focus on, and appreciate, the process of <em>doing</em> science, perhaps above all else. No matter whether an experiment goes to plan, or a manuscript or grant gets rejected, there is still a great deal of satisfaction to be derived from applying your mind to a tough question and learning something new, or simply seeing an experiment through so that you can design a better one for next time. Of course, this is easier said than done, especially when you’re a student and you <em>need</em> to hit specific benchmarks. And results definitely matter, too! But experience has shown me over and over again that if you’re persistent, rigorous, and thorough, it’s just a matter of time until you do start to see the fruits of your labor, both in terms of interesting results as well as improvements in your scientific skills and knowledge.</p>
+<p>One of the most rewarding aspects of scientific research is the collaborative nature of the work. A lab makes meaningful strides when a small collective of individuals works together with the common purpose of making new discoveries and the shared goal of helping to make those around themselves better. The following are some guiding principles to help us all be successful:</p>
+<section id="scientific-integrity">
+<h3>1) Scientific integrity<a class="headerlink" href="#scientific-integrity" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Take the extra time to make sure your work is thorough, systematic, and reproducible (see point 3). While it may take more time up front, this advice will save you loads of time (and stress) in the long run when you’re not scrambling to figure out how a piece of code works, how to fix a figure, where a file is stored, etc.</p></li>
+<li><p>Think deeply about your projects. Think through the validity of a hypothesis/method/result and, ideally, try to follow-up on your questions by designing a new experiment or model.</p></li>
+</ul>
+</section>
+<section id="learn-to-lead">
+<h3>2) Learn to lead<a class="headerlink" href="#learn-to-lead" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Ask your questions during one-on-one meetings, lab meetings, seminars, etc. You know better than anyone what you need to make progress.</p></li>
+<li><p>Don’t be afraid of mistakes—we all make them and, no matter how painful they are, we learn from them and do better the next time.</p></li>
+<li><p>Share, and teach, what you know to others.</p></li>
+</ul>
+</section>
+<section id="be-a-good-scientific-citizen">
+<h3>3) Be a good scientific citizen<a class="headerlink" href="#be-a-good-scientific-citizen" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Practice <a class="reference external" href="https://www.cos.io/">open science</a>.</p></li>
+<li><p>Volunteer to give talks, lead journal club discussions, and be a science advocate.</p></li>
+<li><p>Volunteer to be a mentor, especially for programs that target providing more research opportunities for underrepresented groups in STEM.</p></li>
+<li><p>When providing feedback, focus on problem solving rather than critique.</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="expectations-and-responsibilities">
+<h2>Expectations and Responsibilities<a class="headerlink" href="#expectations-and-responsibilities" title="Permalink to this heading">#</a></h2>
+<section id="principal-investigator-hyosub-kim">
+<h3>Principal Investigator: Hyosub Kim<a class="headerlink" href="#principal-investigator-hyosub-kim" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Support everyone in the lab scientifically, professionally, and in the case of graduate and postdoctoral trainees, financially</p></li>
+<li><p>Be available in person and via email or Zoom and have regular meetings to discuss your research and other topics of interest</p></li>
+<li><p>Provide timely feedback on project ideas, conference abstracts, grants, manuscripts</p></li>
+<li><p>Support your career development by introducing you to other researchers, promoting your work, writing recommendation letters, and supporting your attendance at conferences to help you prepare for the next phase of your career</p></li>
+</ul>
+</section>
+<section id="graduate-students">
+<h3>Graduate students<a class="headerlink" href="#graduate-students" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>(PhD students) Develop your dissertation research: in order to defend, you should have at least 3 substantial chapters/manuscripts that answer a big picture question</p></li>
+<li><p>(Master’s students) Develop your thesis research: in order to defend, you should have at least 1 substantial chapter/mansucript that answers an important question</p></li>
+<li><p>Prioritize your research – coursework, TA-ships, and extracurricular activities are all important, but your <em>research</em> is what earns you your degree and advances your career</p></li>
+<li><p>Be able to work independently, with guidance from Hyosub</p></li>
+<li><p>Help mentor undergraduates in the lab</p></li>
+<li><p>Present your work regularly at lab meetings, seminars, and conferences</p></li>
+<li><p>Apply for scholarships/grants</p></li>
+<li><p>Maintain human ethics approvals, archive old consent forms, keep any required paperwork up to date and organized</p></li>
+<li><p>Think about what you want for your career and communicate with Hyosub about how to accomplish your goals</p></li>
+</ul>
+</section>
+<section id="undergraduate-students">
+<h3>Undergraduate students<a class="headerlink" href="#undergraduate-students" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Assist other lab members with data collection and analysis</p></li>
+<li><p>Assist with recruitment and scheduling of participants</p></li>
+<li><p>Develop your weekly schedule by talking to your graduate student mentor(s) or Hyosub</p></li>
+<li><p>Come in every week and commit enough time to get work done</p></li>
+<li><p>If you are earning course credit, you should also attend lab meetings (as your schedule permits), present at 1 lab meeting, and submit a write-up of your research work by the end of the semester</p></li>
+</ul>
+</section>
+</section>
+<hr class="docutils" />
+<section id="acknowledgments">
+<h2>Acknowledgments<a class="headerlink" href="#acknowledgments" title="Permalink to this heading">#</a></h2>
+<p>Thanks to the following people for sharing their helpful thoughts on running a lab:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf">Mariam Aly</a></p></li>
+<li><p><a class="reference external" href="http://compneurosci.com/wiki/index.php/Main_Page">Gunnar Blohm</a></p></li>
+<li><p><a class="reference external" href="https://www.cns.nyu.edu/malab/lablife.html">Wei Ji Ma</a></p></li>
+<li><p><a class="reference external" href="https://joshcashaback.weebly.com/">Josh Cashaback</a></p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="intro.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Welcome!</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="onboarding.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Onboarding</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#mission-statement">Mission Statement</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-big-picture">The Big Picture</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#scientific-integrity">1) Scientific integrity</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#learn-to-lead">2) Learn to lead</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#be-a-good-scientific-citizen">3) Be a good scientific citizen</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#expectations-and-responsibilities">Expectations and Responsibilities</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#principal-investigator-hyosub-kim">Principal Investigator: Hyosub Kim</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#graduate-students">Graduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#undergraduate-students">Undergraduate students</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgments">Acknowledgments</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Hyosub Kim
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2023. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License..
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=365ca57ee442770a23c6"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=365ca57ee442770a23c6"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

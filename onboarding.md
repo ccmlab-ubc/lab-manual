@@ -15,21 +15,4 @@ Phone: 604-822-9964
 5) Check out the [Resources](resources) page and start teaching yourself to code and any other necessary skills for your project. 
 
 
-## Recruiting participants
-- Email
-- Flyers
-
-
-## Testing participants
-- Consent forms:
-    - There should be plenty printed out and in the testing room
-    - Let Hyosub know if we are running low, so he can print more out
-
-## Paying participants
-
-
-## Readings
-
-
-## 
  

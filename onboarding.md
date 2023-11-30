@@ -1,6 +1,6 @@
 # Onboarding
 
-Under construction.
+![](underconstruction.svg)
 
 ## Contact information
 Testing Room: Osborne - Unit 2, Room 203  

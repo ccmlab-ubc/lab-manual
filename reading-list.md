@@ -62,6 +62,8 @@ Taylor, J. A., Krakauer, J. W., & Ivry, R. B. (2014). [Explicit and Implicit Con
 
 Tsay, J. S., Haith, A. M., Ivry, R. B., & Kim, H. E. (2022). [Interactions between sensory prediction error and task error during implicit motor learning](https://doi.org/10.1371/journal.pcbi.1010005). *PLoS Computational Biology*, 18(3), e1010005. 
 
+Tsay, J. S., Kim, H., Haith, A. M., & Ivry, R. B. (2022). [Understanding implicit sensorimotor adaptation as a process of proprioceptive re-alignment](https://elifesciences.org/articles/76639). Elife, 11, e76639.
+
 Wei, K., & Kording, K. (2009). [Relevance of error: what drives motor adaptation?](https://journals.physiology.org/doi/full/10.1152/jn.90545.2008). *Journal of neurophysiology*, 101(2), 655-664.
 
 

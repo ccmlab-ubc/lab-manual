@@ -20,7 +20,8 @@
 
 ## Statistics
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) by Richard McElreath
-- [Doing Bayesian Data Analysis]((https://sites.google.com/site/doingbayesiandataanalysis/home?authuser=0) by John Kruschke
+- [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/home?authuser=0) by John Kruschke
+- [bayes-toolbox](https://github.com/hyosubkim/bayes-toolbox) - Python package for Bayesian analyses (from the CCM Lab)
 - YouTube reading course on E.T. Jaynes' [Probability Theory: The Logic of Science](https://www.youtube.com/watch?v=rfKS69cIwHc&list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) taught by Aubrey Clayton
 
 

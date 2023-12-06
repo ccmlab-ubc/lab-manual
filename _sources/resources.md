@@ -41,7 +41,7 @@
 
 
 ## Reading
-- [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://osf.io/5gxme) by Pascal Wallisch 
+- [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119155317.ch9) by Pascal Wallisch 
 
 
 ## Writing

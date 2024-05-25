@@ -118,7 +118,7 @@ Tseng, Y. W., Diedrichsen, J., Krakauer, J. W., Shadmehr, R., & Bastian, A. J. (
 ## Reading and writing scientific papers
 Mensh, B., & Kording, K. (2017). [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619). *PLOS Computational Biology*, 13(9), e1005619.
 
-Wallisch, P. (2020). [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://osf.io/5gxme). *Critical Reading Across the Curriculum: Volume 2: Social and Natural Sciences*, 152-164.
+Wallisch, P. (2020). [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119155317.ch9). *Critical Reading Across the Curriculum: Volume 2: Social and Natural Sciences*, 152-164.
 
 
 

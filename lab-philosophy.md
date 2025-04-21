@@ -1,12 +1,14 @@
 # Lab Philosophy
 
 ## Mission Statement
-Our lab aims to shed light on fundamental principles of human motor control and learning during both health and disease. To this end, we develop theories that are formalized, tested, and refined by combining computational modeling and behavioral experiments. We strive to practice open science and will develop open-source software to improve scientific rigor, regardless of discipline. All of this will be accomplished in a welcoming and collaborative environment that serves as a training ground for a diverse group of creative scientists.
+Our lab aims to shed light on fundamental principles of human motor control and learning. To this end, we develop theories that are formalized, tested, and refined by combining computational modeling and behavioral experiments. We strive to practice open science and will develop open-source software to improve scientific rigor, regardless of discipline. All of this will be accomplished in a welcoming and collaborative environment that serves as a training ground for a diverse group of creative scientists.
 
 ## The Big Picture
-Scientific research is extremely rewarding, but it does come with a large set of challenges. A helpful strategy to develop early on (and one that I continue to work on) is to learn to focus on, and appreciate, the process of *doing* science, perhaps above all else. No matter whether an experiment goes to plan, or a manuscript or grant gets rejected, there is still a great deal of satisfaction to be derived from applying your mind to a tough question and learning something new, or simply seeing an experiment through so that you can design a better one for next time. Of course, this is easier said than done, especially when you're a student and you *need* to hit specific benchmarks. And results definitely matter, too! But experience has shown me over and over again that if you're persistent, rigorous, and thorough, it's just a matter of time until you do start to see the fruits of your labor, both in terms of interesting results as well as improvements in your scientific skills and knowledge. 
+Scientific research is extremely rewarding, but it does come with a large set of challenges. A helpful strategy to develop early on (and one that I continue to work on) is to learn to focus on, and appreciate, the process of *doing* science, perhaps above all else. No matter whether an experiment goes to plan, or a manuscript or grant gets rejected, there is still a great deal of satisfaction to be derived from applying your mind to a tough question and learning something new, or simply seeing an experiment through so that you can design a better one for next time. Of course, this is easier said than done, especially when you *need* to hit specific benchmarks. And results definitely matter, too! But experience has shown me over and over again that if you're persistent, rigorous, and thorough, it's just a matter of time until you do start to see the fruits of your labor, both in terms of interesting results as well as improvements in your scientific skills and knowledge. 
 
-One of the most rewarding aspects of scientific research is the collaborative nature of the work. A lab makes meaningful strides when a small collective of individuals works together with the common purpose of making new discoveries and the shared goal of helping to make those around themselves better. The following are some guiding principles to help us all be successful: 
+One of the most rewarding aspects of scientific research is the collaborative nature of the work. A lab makes meaningful strides when a small collective of individuals works together with the common purpose of making new discoveries and the shared goal of helping to make those around themselves better. Below are some guiding principles to help us all be successful. 
+
+## Guiding principles
 
 ### 1) Scientific integrity
 - Take the extra time to make sure your work is thorough, systematic, and reproducible (see point 3). While it may take more time up front, this advice will save you loads of time (and stress) in the long run when you're not scrambling to figure out how a piece of code works, how to fix a figure, where a file is stored, etc. 
@@ -20,17 +22,27 @@ One of the most rewarding aspects of scientific research is the collaborative na
 ### 3) Be a good scientific citizen
 - Practice [open science](https://www.cos.io/).
 - Volunteer to give talks, lead journal club discussions, and be a science advocate.
-- Volunteer to be a mentor, especially for programs that target providing more research opportunities for underrepresented groups in STEM.
+- Volunteer to be a mentor, especially for programs that aim to provide more research opportunities for underrepresented groups in STEM.
 - When providing feedback, focus on problem solving rather than critique.
            
 ---
 ## Expectations and Responsibilities
 
+### Hours
+During regular work hours (M-F; 9-5), if I'm not teaching or in a meeting, you can usually find me in my office or the lab. I also like to get out of the office and work at different locations on campus. On some mornings, I may start off working at home and come in later during the day. The point is that you should almost always be able to find me if you need to talk about anything. 
+
+I encourage all of you to arrange your schedules so that most of your hours overlap with mine and with each other. In order to build community, we have to show up. The most important part is to be focused when you work. As we're currently sharing Dr. Romeo Chua's lab space, we have to be extra mindful of not holding conversations in the main shared space in Osborne Unit 2. If you find you can be productive at another location on campus, by all means do some of your work there. However, the lab is a lab because of the people in it. Let me know if it's too loud or disruptive in there...
+
+### Lab meetings
+We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. 
+
 ### Principal Investigator: Hyosub Kim
+In terms of the science we do, I aim to provide an overall vision for the lab (see [Mission](#mission)) and collaboratively work with you to make sure our research is of the highest quality (see [Guiding Principles](#guiding-principles). When it comes to being an advisor, my goal is to help you realize your potential and successfully reach the next stage of your career. 
+
 - Support everyone in the lab scientifically, professionally, and in the case of graduate and postdoctoral trainees, financially
 - Be available in person and via email or Zoom and have regular meetings to discuss your research and other topics of interest
 - Provide timely feedback on project ideas, conference abstracts, grants, manuscripts
-- Support your career development by introducing you to other researchers, promoting your work, writing recommendation letters, and supporting your attendance at conferences to help you prepare for the next phase of your career  
+- Support your career development by introducing you to other researchers, promoting your work, writing recommendation letters, and supporting your attendance at conferences to help you prepare for the next stage of your career  
 
 ### Graduate students
 - (PhD students) Develop your dissertation research: in order to defend, you should have at least 3 substantial chapters/manuscripts that answer a big picture question

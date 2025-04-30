@@ -1,13 +1,15 @@
 # Lab Philosophy
 
+(mission)=
 ## Mission Statement
 Our lab aims to shed light on fundamental principles of human motor control and learning. To this end, we develop theories that are formalized, tested, and refined by combining computational modeling and behavioral experiments. We strive to practice open science and will develop open-source software to improve scientific rigor, regardless of discipline. All of this will be accomplished in a welcoming and collaborative environment that serves as a training ground for a diverse group of creative scientists.
 
 ## The Big Picture
-Scientific research is extremely rewarding, but it does come with a large set of challenges. A helpful strategy to develop early on (and one that I continue to work on) is to learn to focus on, and appreciate, the process of *doing* science, perhaps above all else. No matter whether an experiment goes to plan, or a manuscript or grant gets rejected, there is still a great deal of satisfaction to be derived from applying your mind to a tough question and learning something new, or simply seeing an experiment through so that you can design a better one for next time. Of course, this is easier said than done, especially when you *need* to hit specific benchmarks. And results definitely matter, too! But experience has shown me over and over again that if you're persistent, rigorous, and thorough, it's just a matter of time until you do start to see the fruits of your labor, both in terms of interesting results as well as improvements in your scientific skills and knowledge. 
+Scientific research is extremely rewarding, but it does come with a large set of challenges. A helpful strategy to develop early on is to learn to focus on, and appreciate, the process of *doing* science, perhaps above all else. No matter whether an experiment goes to plan, or a manuscript or grant gets rejected, there is still a great deal of satisfaction to be derived from applying your mind to a tough question and learning something new, or simply seeing an experiment through so that you can design a better one for next time. Of course, this is easier said than done, especially when you *need* to hit specific benchmarks. And results definitely matter, too! But experience has shown me over and over again that if you're persistent, rigorous, and thorough, it's just a matter of time until you do start to see the fruits of your labor, both in terms of interesting results as well as improvements in your scientific skills and knowledge. 
 
 One of the most rewarding aspects of scientific research is the collaborative nature of the work. A lab makes meaningful strides when a small collective of individuals works together with the common purpose of making new discoveries and the shared goal of helping to make those around themselves better. Below are some guiding principles to help us all be successful. 
 
+(guiding-principles)=
 ## Guiding principles
 
 ### 1) Scientific integrity

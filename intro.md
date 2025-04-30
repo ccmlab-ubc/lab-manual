@@ -1,8 +1,8 @@
 # Welcome!
 
-Welcome to the Computation, Cognition, and Movement Lab! This lab manual was written with you in mind. For new members, it will help you onboard and get oriented to the lab and the work that we do. For seasoned veterans, it will serve as a useful reference that you can return to. 
+Welcome to the Computation, Cognition, and Movement Lab! This lab manual was written with you in mind. For new members, it will help you onboard and get oriented to the lab and the work that we do. For seasoned veterans, it should serve as a useful reference that you can return to. 
 
-Please read through the entire "book". Let me know if you have any questions and how I can help. 
+Let me know if you have any questions and how I can help. 
 
 -*Hyosub*
 

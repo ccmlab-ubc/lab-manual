@@ -2,7 +2,7 @@
 
 # General Expectations
 
-Everyone can expect the lab to be a positive, tolerant, and collaborative environment. That said, we each have the responsibilitiy of committing ourselves to creating, and maintaining, just such an environment. The lab is the people in it. 
+Everyone can expect the lab to be a positive, inclusive, and collaborative environment. That said, we each have the responsibilitiy of committing ourselves to creating, and maintaining, just such an environment. The lab is the people in it. 
 
 
 ## What is grad school?
@@ -30,15 +30,15 @@ I sometimes repeat myself; I sometimes repeat myelf (sorry). One of the mantras 
 
 When I was a postdoc, a labmate once shared this gem with me: "A month in the laboratory can often save an hour in the library." Hilarious, yet true. We can all thank American chemist Frank Westheimer for this one. 
 
-The point is, you must read papers---lots of them! This is how you familiarize yourself with the relevant scientific literature. It's also how you develop questions, important ones. Reading is also a great way to learn how to write. I don't know of a single good writer, scientist or not, who is not also a voracious reader. The Onboarding section has some suggestions on where to begin. I can also help guide you. 
+The point is, you must read papers---lots of them! This is how you familiarize yourself with the relevant scientific literature. It's also how you develop questions, important ones. And it's impossible to have a deep understanding of your research area without extensive reading. Reading is also a great way to learn how to write. I don't know of a single good writer, scientist or not, who is not also a voracious reader. The Onboarding section has some suggestions on where to begin. I can also help guide you. 
 
-Start your reading journey by choosing a reference manager like Zotero, Paperpile, or JabRef. I used to use Zotero but have recently switched to JabRef, only because I like its easy integration with LaTeX. Choose whichever one works well for you. 
+Start your reading journey by choosing a reference manager like [Zotero](https://www.zotero.org/), [Paperpile](https://paperpile.com/), or [JabRef](https://www.jabref.org/). I used to use Zotero and found it very intuitive but have recently switched to JabRef, only because I like its easy integration with LaTeX. Choose whichever one works well for you. 
 
 
 ## Making progress
 
-Your progress, at least when it comes to external markers, will be highly non-linear. Some days, or weeks, you'll be making great "progress", whether that means a paper or grant gets accepted, you pass your quals, or an experiment produces the predicted results. Other days/weeks/months, these things won't happen. Much of this is out of our control. What is under our control, however, is the amount of focus and effort we put into our work. If you dedicate a good deal of both, you are virtually guaranteed of making great progress towards being a better scientist. And since that is what you care about, your work will by definition be meaningful. 
+Your progress, at least when it comes to external markers, will be highly non-linear. Some days, or weeks, you'll be making great "progress", whether that means a paper or grant gets accepted, you pass your quals, or an experiment produces the predicted results. Other days/weeks/months, these things won't happen. Much of this is out of our control. What is under our control, however, is the amount of focus and effort we put into our work. If you dedicate a good deal of both, you are virtually guaranteed of making significant progress towards being a better scientist. And since that is what you care about, your work will by definition be meaningful. 
 
 That said, come speak with me if you are unsure of what you are doing, or what you *think* you should be doing, on a day-to-day basis. We all go through periods of doubt and uncertainty. I am here to provide guidance and help you through those times. Your lab mates are also a source of support. 
 
-Concretely, a good strategy is to try to carry on with your reading while actively seeking out answers to questions. That is, make sure your didactic work goes hand-in-hand with your active learning and exploration. It's never to early to work with a model, design an experiment, re-analyze some data, or attempt to replicate a previous result! Throughout your time here, put yourself in the mode of *doing* science. 
+Concretely, a good strategy is to try to carry on with your reading while actively seeking out answers to questions. That is, make sure your didactic work goes hand-in-hand with your active learning and exploration. It's never too early to work with a model, design an experiment, re-analyze some data, or attempt to replicate a previous result! Throughout your time here, put yourself in the mode of *doing* science. 

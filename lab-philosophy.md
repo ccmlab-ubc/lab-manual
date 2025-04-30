@@ -25,14 +25,8 @@ One of the most rewarding aspects of scientific research is the collaborative na
 - Volunteer to be a mentor, especially for programs that aim to provide more research opportunities for underrepresented groups in STEM.
 - When providing feedback, focus on problem solving rather than critique.
            
----
 
 
 
----
-## Acknowledgments
-Thanks to the following people for sharing their helpful thoughts on running a lab: 
-- [Mariam Aly](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf)
-- [Gunnar Blohm](http://compneurosci.com/wiki/index.php/Main_Page)
-- [Wei Ji Ma](https://www.cns.nyu.edu/malab/lablife.html)
-- [Josh Cashaback](https://joshcashaback.weebly.com/)
+
+

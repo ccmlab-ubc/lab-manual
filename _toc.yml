@@ -7,11 +7,15 @@ root: intro
   # - caption: Lab Philosophy
 chapters:
 - file: lab-philosophy
+- file: general-expectations
+- file: specific-expectations
 - file: onboarding   
 - file: running-experiments
 - file: organizing-project-code
 - file: reading-list
 - file: resources
+- file: contact-information
+- file: acknowledgments
 
     
     

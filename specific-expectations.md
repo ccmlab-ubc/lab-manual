@@ -25,7 +25,7 @@ You can expect me to provide you with thoughtful feedback on your work in a time
 
 
 ## Principal Investigator
-I aim to provide an overall vision for the lab (see [Mission](#mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](#guiding-principles). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 
+I aim to provide an overall vision for the lab (see [Mission](mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](guiding-principles)). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 
 
 Other specific expectations of the PI: 
 - Support everyone in the lab scientifically, professionally, and in the case of graduate trainees, financially
@@ -50,7 +50,7 @@ You are the driver of your research project. While I (Hyosub) may provide you wi
   
 
 ## Undergraduate students
-*Theses students (e.g., KIN 492, NRSC 400, COGS 402)*   
+### Theses students (e.g., KIN 492, NRSC 400, COGS 402)   
 If you are completing an undergraduate research experience (e.g., KIN 492), capstone project, or senior thesis, you are also expected to be the driver of your project. While the PI will meet with you regularly and advise you on your project, you will likely receive more direct day-to-day guidance from one of the graduate students in the lab. Understanding that your timeline is compressed (either one or two terms), the scope of your project will be significantly smaller than that of a Master's student's. Also, while publication of your project is nowhere near out of the question, it is not a firm expectation as it is for all graduate students. If you are earning course credit, you are also expected to attend lab meetings (as your schedule permits), present at at least one lab meeting, and submit a write-up of your research work by the end of your project. 
 
 For all undergraduate volunteers, the expectations for you are the following:

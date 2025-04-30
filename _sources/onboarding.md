@@ -2,12 +2,6 @@
 
 ![](underconstruction.svg)
 
-## Contact information
-Testing Room: Osborne - Unit 2, Room 203  
-Office: Osborne - Unit 1, Room 214  
-Email: hyosub.kim@ubc.ca  
-Phone: 604-822-9964  
-
 ## Steps
 1) Read the lab manual.
 2) Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol. 

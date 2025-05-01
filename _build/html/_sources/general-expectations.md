@@ -28,7 +28,7 @@ I sometimes repeat myself; I sometimes repeat myelf (sorry). One of the mantras 
 
 When I was a postdoc, a labmate once shared this gem with me: "A month in the laboratory can often save an hour in the library." Hilarious, yet true. We can all thank American chemist Frank Westheimer for this one. 
 
-The point is, you must read papers---lots of them! This is how you familiarize yourself with the relevant scientific literature. It's also how you develop questions, important ones. And it's impossible to have a deep understanding of your research area without extensive reading. Reading is also a great way to learn how to write. I don't know of a single good writer, scientist or not, who is not also a voracious reader. The Onboarding section has some suggestions on where to begin. I can also help guide you. 
+The point is, you must read papers---lots of them! This is how you familiarize yourself with the relevant scientific literature. It's also how you develop questions, important ones. And it's impossible to have a deep understanding of your research area without extensive reading. Reading is also a great way to learn how to write. I don't know of a single good writer, scientist or not, who is not also a voracious reader. The [Onboarding](onboarding) section has some suggestions on where to begin. I can also help guide you. 
 
 Start your reading journey by choosing a reference manager like [Zotero](https://www.zotero.org/), [Paperpile](https://paperpile.com/), or [JabRef](https://www.jabref.org/). I used to use Zotero and found it very intuitive but have recently switched to JabRef, only because I like its easy integration with $\LaTeX$. Choose whichever one works well for you. 
 

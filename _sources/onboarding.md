@@ -1,3 +1,4 @@
+(onboarding)=
 # Onboarding
 
 ![](underconstruction.svg)

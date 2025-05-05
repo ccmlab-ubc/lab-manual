@@ -6,7 +6,7 @@
 ## Steps
 1) Read the lab manual.
 1) Submit an Issue (click on Octocat in upper right) regarding the lab manual---i.e., provide a suggestion, comment, or raise a question. You need a [GitHub](https://github.com/) account in order to do this, so if you don't have one, create one. 
-1) Accept invitation to join CCM Lab organization on GitHub. 
+1) Accept eventual invitation to join CCM Lab organization on GitHub. 
 1) Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol. 
 1) Add yourself to eligible list of RISe researchers "by emailing the following information to RISe Support(risesupport@ors.ubc.ca): Full Name (Including Middle Initial), Department (or affiliation with the University), UBC Rank, Email Address, Phone Number and UBC employee number (if applicable). Once an account is created, new users will receive their researcher numbers via email."
 1) Once your RISe account is created, let Hyosub know so he can add you to our study protocols.

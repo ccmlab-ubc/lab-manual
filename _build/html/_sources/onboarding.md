@@ -16,4 +16,8 @@
 1) Check out the [Resources](resources) page and start teaching yourself to code and any other necessary skills for your project. 
 
 
- 
+## Accounts to sign-up for
+1) **GitHub**
+2) **Dropbox** - If you are a grad student or will be in the lab for at least a year, the lab will pay for a DropBox Plus account for you. 
+3) **Overleaf**
+4) **Zotero** or **JabRef**

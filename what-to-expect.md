@@ -1,4 +1,4 @@
-# General Expectations
+# What to Expect
 
 Everyone can expect the lab to be a positive, inclusive, and collaborative environment. That said, we each have the responsibilitiy of committing ourselves to creating, and maintaining, just such an environment. The lab is the people in it. 
 
@@ -35,7 +35,7 @@ Start your reading journey by choosing a reference manager like [Zotero](https:/
 
 ## Making progress
 
-Your progress, at least when it comes to external markers, will be highly non-linear. Some days, or weeks, you'll be making great "progress", whether that means a paper or grant gets accepted, you pass your quals, or an experiment produces the predicted results. Other days/weeks/months, these things won't happen. Much of this is out of our control. What is under our control, however, is the amount of focus and effort we put into our work. If you dedicate a good deal of both, you are virtually guaranteed of making significant progress towards being a better scientist. And since that is what you care about, your work will by definition be meaningful. 
+Your progress, at least when it comes to external markers, will be highly non-linear. Some days, or weeks, you'll be making great "progress", whether that means a paper or grant gets accepted, you pass your quals, or an experiment produces the predicted results. Other days/weeks/months, these things won't happen. Much of this is out of our control. What is under our control, however, is the amount of focus and effort we put into our work. If you dedicate a good deal of both, you are virtually guaranteed to make significant progress towards being a better scientist. And since that is what you care about, your work will by definition be meaningful. 
 
 That said, come speak with me if you are unsure of what you are doing, or what you *think* you should be doing, on a day-to-day basis. We all go through periods of doubt and uncertainty. I am here to provide guidance and help you through those times. Your lab mates are also a source of support. 
 

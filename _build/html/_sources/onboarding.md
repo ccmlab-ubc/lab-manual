@@ -20,4 +20,4 @@
 1) **GitHub**
 2) **Dropbox** - If you are a grad student or will be in the lab for at least a year, the lab will pay for a DropBox Plus account for you. 
 3) **Overleaf**
-4) **Zotero** or **JabRef**
+4) **Some form of citation manager (check out JabRef or Zotero)**

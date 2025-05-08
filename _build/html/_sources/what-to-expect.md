@@ -1,4 +1,4 @@
-# What to Expect
+# What You Can Expect
 
 Everyone can expect the lab to be a positive, inclusive, and collaborative environment. That said, we each have the responsibilitiy of committing ourselves to creating, and maintaining, just such an environment. The lab is the people in it. 
 

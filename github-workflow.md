@@ -16,3 +16,11 @@ Basic steps:
 1) Assign one pull request reviewer for each repo. This should be the person in charge of the main branch. 
 1) The reviewer will review your changes. Look over changes by clicking on "Commits" tab. 
 1) If satisfied, reviewer will merge your branch with the main. 
+
+Questions and basic functionality:
+- How to clone?
+- Why ```git add```? Think of adding as getting ready to take a snapshot. ```git commit``` is actually taking the snapshot. This is useful in cases where you are working on multiple files, and maybe you're ready to take a snapshot of one file but any others. You can then just add that one file, while continuing to make changes to the other files. 
+- Reverting commits.
+- Reverting adds. 
+- Branching. 
+

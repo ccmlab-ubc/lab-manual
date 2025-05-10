@@ -24,3 +24,6 @@ Questions and basic functionality:
 - Reverting adds. 
 - Branching. 
 
+Fun facts:
+- You can push a new branch to the remote. After creating a new branch, push the branch up with ```git push origin <new-branch-name>. The above will turn into a pull request to merge into the main. Remember: you don't have to merge. 
+

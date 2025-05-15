@@ -24,8 +24,7 @@ Questions and basic functionality:
 - Reverting commits.
 - Reverting adds. 
 - Branching. 
-- Using cookiecutter: Should you first install project-template or create repo and then install?
-    - fix cookiecutter's .gitignore (there's multiples; maybe only use the one in the root?)
+
     
 - git: diff, restore (restore previous version of file / get rid of uncommitted changes), revert (undo a commit), log
 

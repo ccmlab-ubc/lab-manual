@@ -1,7 +1,7 @@
 (onboarding)=
 # Onboarding
 
-You can find out about onboarding steps, SOPs regarding running experiments and data and code management, and a whole lot more in our private [lab wiki](https://osf.io/qbze9/). New CCM Lab members should request access to the lab wiki from our lab manager. 
+You can find out about onboarding steps, SOPs regarding running experiments and data and code management, and a whole lot more in our private [lab wiki](https://osf.io/qbze9/). New CCM Lab members should request access to the wiki from our lab manager. 
 
 <!-- ![](underconstruction.svg)
 

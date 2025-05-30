@@ -1,7 +1,9 @@
 (onboarding)=
 # Onboarding
 
-![](underconstruction.svg)
+You can learn all about onboarding steps and SOPs in our private [lab wiki](https://osf.io/qbze9/). New CCM Lab members should request access to the wiki from our lab manager. 
+
+<!-- ![](underconstruction.svg)
 
 ## Steps
 1) Read the lab manual.
@@ -21,4 +23,4 @@
 2) **Dropbox** - If you are a grad student or will be in the lab for at least a year, the lab will pay for a DropBox Plus account for you. 
 3) **Overleaf**
 4) **Open Science Framework**
-4) **Some form of citation manager (check out JabRef or Zotero)**
+4) **Some form of citation manager (check out JabRef or Zotero)** -->

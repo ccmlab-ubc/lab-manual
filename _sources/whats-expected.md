@@ -1,6 +1,9 @@
 # What's Expected of You 
 
-## Work Hours
+## Lab Culture
+---
+
+### Work Hours
 I generally expect all of us to either be in the lab or, occasionally, working somewhere nearby on campus during normal work hours (M-F; 9-5). This is a guiding principle rather than a rigid rule as I know there are times when you may find working elsewhere, like the library, more productive. I also understand that an occasional change of scenery can provide a nice boost in motivation or just help clear the cobwebs. These statements are all true for me as well. However, it's best if most of our hours overlap with each other, as this will facilitate scheduling, promote serendipitous conversations, and foster community. When in doubt about what's best practice, talk to me. 
 
 Beyond your set schedule, what's most important about your working hours is the depth of your attention and focus on the task at hand. How to best direct your efforts, minimize distraction, and maintain focus is something I've thought and read an awful lot about. While I still have lots of room for improvement, I'm happy to provide any guidance I can to you around this topic. 
@@ -8,11 +11,13 @@ Beyond your set schedule, what's most important about your working hours is the 
 On the topic of focus and deep work, since we're currently sharing Dr. Romeo Chua's lab space, we have to be extra conscientious about not holding conversations in the lab. Do not disturb the other trainees in the lab. You can take your conversations to the "closet" or the lower level of Osborne. Please bring it to my attention if there are issues around too many distractions in the lab. 
 
 
-## Lab meetings
-We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with. 
+### Lab meetings
+We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending. 
+
+We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with. 
 
 
-## One-on-one meetings
+### One-on-one meetings
 I am here to provide mentorship and guidance to you. As such, you can expect to have regular one-on-one meetings with me. For graduate students, these meetings will take place weekly. For undergraduates, you can expect a regular meeting with me at least once a month. Anyone can request a meeting with me whenever they need to and I will make sure to be available for you. And please feel comfortable knocking on my office door if anything urgent comes up. 
 
 With regard to our meetings, I expect you to come to them prepared. This means knowing what you want advice on and, for most meetings, having a simple presentation prepared---whether slides, a Jupyter notebook, written notes/documents, or whiteboard sketches. This is something I learned as a grad student and postdoc. In order to get the most out of my meetings with my advisor, I always had something concrete to show them and discuss. Like all PIs, I have several projects constantly floating around in my mind, not just yours, so having a brief presentation prepared will help me give you my best advice. The presentation doesn't have to be formal, but even so, it's great practice for organizing your thoughts and presenting your work. 
@@ -20,11 +25,20 @@ With regard to our meetings, I expect you to come to them prepared. This means k
 In addition to preparation, I also expect you to follow through on agreed upon actions and next steps. If you're looking for software to help with keeping yourself organized, I find [Trello](https://trello.com/) to provide a nice, clean interface for keeping track of ongoing tasks. 
 
 
-## Receiving feedback on work
+### Receiving feedback on work
 You can expect me to provide you with thoughtful feedback on your work in a timely manner. When seeking feedback, which you should for everything coming out of the lab, please provide me with sufficient lead time. For anything with a deadline, like a conference abstract, please provide me with a solid draft at least two weeks in advance. For manuscripts, the process is highly iterative, as there will be multiple drafts. You will usually start by providing me with an outline at least two months in advance. For theses and dissertations, you will start the writing process many months in advance. 
 
 
-## Principal Investigator
+### Authorship
+Authorship, and authorship order, is something that should be discussed early on in a project's life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we're talking about a manuscript, abstract, or poster. An "intellectual contribution" could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it's pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it's best to hash these sorts of things out early. 
+
+Examples of important contributions to our work that that don't necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that's not always going to be possible, which is also fine. 
+
+
+## Roles
+---
+
+### Principal Investigator
 I aim to provide an overall vision for the lab (see [Mission](mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](guiding-principles)). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 
 
 Other specific expectations of the PI: 
@@ -35,7 +49,7 @@ Other specific expectations of the PI:
 - Support your career development by introducing you to other researchers, promoting your work, writing recommendation letters, and supporting your attendance at conferences to help you prepare for the next stage of your career  
 
 
-## Graduate students
+### Graduate students
 You are the driver of your research project. While I (Hyosub) may provide you with a concrete idea for your first project in the lab---and I'm always here to provide guidance---you are always the project leader. Practically speaking, this means you should: 
 
 - (PhD students) Develop your dissertation research. In order to defend, you should have at least 3 substantial chapters/publishable manuscripts that answer a big picture question
@@ -49,7 +63,7 @@ You are the driver of your research project. While I (Hyosub) may provide you wi
 - Think about what you want for your career and communicate with Hyosub about how to accomplish your goals
   
 
-## Undergraduate students
+### Undergraduate students
 **Theses students (e.g., KIN 492, NRSC 400, COGS 402)**      
 If you are completing an undergraduate research experience (e.g., KIN 492), capstone project, or senior thesis, you are also expected to be the driver of your project. While the PI will meet with you regularly and advise you on your project, you will likely receive more direct day-to-day guidance from one of the graduate students in the lab. Understanding that your timeline is compressed (either one or two terms), the scope of your project will be significantly smaller than that of a Master's student's. Also, while publication of your project is nowhere near out of the question, it is not a firm expectation as it is for all graduate students. If you are earning course credit, you are also expected to attend lab meetings (as your schedule permits), present at at least one lab meeting, and submit a write-up of your research work by the end of your project. 
 
@@ -60,7 +74,7 @@ For all undergraduate volunteers, the expectations for you are the following:
 - Come in every week and commit enough time to get work done
 
 
-## Lab manager/Research assistants
+### Lab manager/Research assistants
 As a paid employee, you are expected to perform a series of tasks and duties that are assigned to you by the PI. You are also responsible for keeping track of your hours and what you are working on during them. Specific responsibilities include assisting with, maintaining and/or developing standard operating procedures around the following:
 - Setting up behavioral experiments
 - Participant recruitment and payment

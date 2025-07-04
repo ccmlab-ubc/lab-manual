@@ -1,106 +1,160 @@
 
 <!DOCTYPE html>
 
-<html>
+
+<html lang="en" data-content_root="./" >
+
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>What’s Expected of You &#8212; CCM Lab Manual</title>
-    
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
+  
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <link href="_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
-    
-  <link rel="stylesheet"
-    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
-    
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=949a1ff5" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- So that users can add custom icons -->
+  <script src="_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/doctools.js"></script>
-    <script src="_static/clipboard.min.js"></script>
-    <script src="_static/copybutton.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=ff8fa330"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="_static/sphinx-thebe.js"></script>
-    <link rel="shortcut icon" href="_static/favicon.png"/>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'whats-expected';</script>
+    <link rel="icon" href="_static/favicon.png"/>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Onboarding" href="onboarding.html" />
     <link rel="prev" title="What You Can Expect" href="what-to-expect.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="None">
-    
-
-    <!-- Google Analytics -->
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay overlay-navbar" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<!-- Checkboxes to toggle the in-page toc -->
-<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
-<label class="overlay overlay-pagetoc" for="__page-toc">
-    <div class="visually-hidden">Toggle in-page Table of Contents</div>
-</label>
-<!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
-<div class="header header-item noprint"></div>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
 
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
     
-    <div class="container-fluid" id="banner"></div>
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
 
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
     
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
 
-    <div class="container-xl">
-      <div class="row">
-          
-<!-- Sidebar -->
-<div class="bd-sidebar noprint" id="site-navigation">
-    <div class="bd-sidebar__content">
-        <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="index.html">
-      
-      
-      
-      <h1 class="site-logo" id="site-title">CCM Lab Manual</h1>
-      
-    </a>
-</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item active">
+  
+    
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">CCM Lab Manual</p>
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
@@ -110,356 +164,264 @@ const thebe_selector_output = ".output, .cell_output"
             </li>
         </ul>
         <ul class="current nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="lab-philosophy.html">
-   Lab Philosophy
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="what-to-expect.html">
-   What You Can Expect
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   What’s Expected of You
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="onboarding.html">
-   Onboarding
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="reading-list.html">
-   Reading List
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="resources.html">
-   Resources
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contact-info.html">
-   Contact Information
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="acknowledgments.html">
-   Acknowledgments
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="lab-philosophy.html">Lab Philosophy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="what-to-expect.html">What You Can Expect</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">What’s Expected of You</a></li>
+<li class="toctree-l1"><a class="reference internal" href="onboarding.html">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reading-list.html">Reading List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="resources.html">Resources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contact-info.html">Contact Information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="acknowledgments.html">Acknowledgments</a></li>
 </ul>
 
     </div>
 </nav></div>
-        <div class="bd-sidebar__bottom">
-             <!-- To handle the deprecated key -->
-            
-            <div class="navbar_extra_footer">
-            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-            </div>
-            
-        </div>
     </div>
-    <div id="rtd-footer-container"></div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/ccmlab-ubc/lab-manual" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/ccmlab-ubc/lab-manual/issues/new?title=Issue%20on%20page%20%2Fwhats-expected.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
 </div>
 
 
-          
-
-
-          
-<!-- A tiny helper pixel to detect if we've scrolled -->
-<div class="sbt-scroll-pixel-helper"></div>
-<!-- Main content -->
-<div class="col py-0 content-container">
-    
-    <div class="header-article row sticky-top noprint">
-        
 
 
 
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        
-        <label for="__navigation"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="right"
-title="Toggle navigation"
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/whats-expected.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-bars"></i>
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
   </span>
-
-</label>
-
-        
-    </div>
-    <div class="header-article__right">
-<button onclick="toggleFullScreen()"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
   <i class="fas fa-expand"></i>
   </span>
 
 </button>
 
-<div class="menu-dropdown menu-dropdown-repository-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Source repositories">
-      <i class="fab fa-github"></i>
-  </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="https://github.com/ccmlab-ubc/lab-manual"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Source repository"
->
-  
 
-<span class="headerbtn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="headerbtn__text-container">repository</span>
-</a>
 
-      </li>
-      
-      <li>
-        <a href="https://github.com/ccmlab-ubc/lab-manual/issues/new?title=Issue%20on%20page%20%2Fwhats-expected.html&body=Your%20issue%20content%20here."
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Open an issue"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="headerbtn__text-container">open issue</span>
-</a>
-
-      </li>
-      
-    </ul>
-  </div>
-</div>
-
-<div class="menu-dropdown menu-dropdown-download-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Download this page">
-      <i class="fas fa-download"></i>
-  </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="_sources/whats-expected.md"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="headerbtn__text-container">.md</span>
-</a>
-
-      </li>
-      
-      <li>
-        
-<button onclick="printPdf(this)"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file-pdf"></i>
-  </span>
-<span class="headerbtn__text-container">.pdf</span>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
 </button>
 
-      </li>
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
       
-    </ul>
-  </div>
-</div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
+    </div>
   
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
-
-    </div>
 </div>
-
-<!-- Table of contents -->
-<div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#work-hours">
-   Work Hours
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lab-meetings">
-   Lab meetings
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#one-on-one-meetings">
-   One-on-one meetings
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#receiving-feedback-on-work">
-   Receiving feedback on work
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#principal-investigator">
-   Principal Investigator
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#graduate-students">
-   Graduate students
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#undergraduate-students">
-   Undergraduate students
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lab-manager-research-assistants">
-   Lab manager/Research assistants
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
-    </div>
-    <div class="article row">
-        <div class="col pl-md-3 pl-lg-5 content-container">
-            <!-- Table of contents that is only displayed when printing the page -->
-            <div id="jb-print-docs-body" class="onlyprint">
-                <h1>What’s Expected of You</h1>
-                <!-- Table of contents -->
-                <div id="print-main-content">
-                    <div id="jb-print-toc">
-                        
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#work-hours">
-   Work Hours
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lab-meetings">
-   Lab meetings
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#one-on-one-meetings">
-   One-on-one meetings
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#receiving-feedback-on-work">
-   Receiving feedback on work
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#principal-investigator">
-   Principal Investigator
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#graduate-students">
-   Graduate students
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#undergraduate-students">
-   Undergraduate students
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#lab-manager-research-assistants">
-   Lab manager/Research assistants
-  </a>
- </li>
-</ul>
+              
+              
 
-                        </nav>
-                    </div>
-                </div>
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>What’s Expected of You</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
             </div>
-            <main id="main-content" role="main">
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-culture">Lab Culture</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#work-hours">Work Hours</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-meetings">Lab meetings</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#one-on-one-meetings">One-on-one meetings</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#receiving-feedback-on-work">Receiving feedback on work</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#authorship">Authorship</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#roles">Roles</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#principal-investigator">Principal Investigator</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#graduate-students">Graduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#undergraduate-students">Undergraduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-manager-research-assistants">Lab manager/Research assistants</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
                 
-              <div>
-                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
   <section class="tex2jax_ignore mathjax_ignore" id="what-s-expected-of-you">
-<h1>What’s Expected of You<a class="headerlink" href="#what-s-expected-of-you" title="Permalink to this headline">#</a></h1>
+<h1>What’s Expected of You<a class="headerlink" href="#what-s-expected-of-you" title="Link to this heading">#</a></h1>
+<section id="lab-culture">
+<h2>Lab Culture<a class="headerlink" href="#lab-culture" title="Link to this heading">#</a></h2>
+<hr class="docutils" />
 <section id="work-hours">
-<h2>Work Hours<a class="headerlink" href="#work-hours" title="Permalink to this headline">#</a></h2>
+<h3>Work Hours<a class="headerlink" href="#work-hours" title="Link to this heading">#</a></h3>
 <p>I generally expect all of us to either be in the lab or, occasionally, working somewhere nearby on campus during normal work hours (M-F; 9-5). This is a guiding principle rather than a rigid rule as I know there are times when you may find working elsewhere, like the library, more productive. I also understand that an occasional change of scenery can provide a nice boost in motivation or just help clear the cobwebs. These statements are all true for me as well. However, it’s best if most of our hours overlap with each other, as this will facilitate scheduling, promote serendipitous conversations, and foster community. When in doubt about what’s best practice, talk to me.</p>
 <p>Beyond your set schedule, what’s most important about your working hours is the depth of your attention and focus on the task at hand. How to best direct your efforts, minimize distraction, and maintain focus is something I’ve thought and read an awful lot about. While I still have lots of room for improvement, I’m happy to provide any guidance I can to you around this topic.</p>
 <p>On the topic of focus and deep work, since we’re currently sharing Dr. Romeo Chua’s lab space, we have to be extra conscientious about not holding conversations in the lab. Do not disturb the other trainees in the lab. You can take your conversations to the “closet” or the lower level of Osborne. Please bring it to my attention if there are issues around too many distractions in the lab.</p>
 </section>
 <section id="lab-meetings">
-<h2>Lab meetings<a class="headerlink" href="#lab-meetings" title="Permalink to this headline">#</a></h2>
-<p>We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. We’ll usually set aside time at the beginning of the meeting to catch up on everyone’s projects. Each week, a different member will lead the meeting. We’ll likely alternate between project discussions and journal club. However, we’ll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other’s writing, and other ideas that we come up with.</p>
+<h3>Lab meetings<a class="headerlink" href="#lab-meetings" title="Link to this heading">#</a></h3>
+<p>We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending.</p>
+<p>We’ll usually set aside time at the beginning of the meeting to catch up on everyone’s projects. Each week, a different member will lead the meeting. We’ll likely alternate between project discussions and journal club. However, we’ll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other’s writing, and other ideas that we come up with.</p>
 </section>
 <section id="one-on-one-meetings">
-<h2>One-on-one meetings<a class="headerlink" href="#one-on-one-meetings" title="Permalink to this headline">#</a></h2>
+<h3>One-on-one meetings<a class="headerlink" href="#one-on-one-meetings" title="Link to this heading">#</a></h3>
 <p>I am here to provide mentorship and guidance to you. As such, you can expect to have regular one-on-one meetings with me. For graduate students, these meetings will take place weekly. For undergraduates, you can expect a regular meeting with me at least once a month. Anyone can request a meeting with me whenever they need to and I will make sure to be available for you. And please feel comfortable knocking on my office door if anything urgent comes up.</p>
 <p>With regard to our meetings, I expect you to come to them prepared. This means knowing what you want advice on and, for most meetings, having a simple presentation prepared—whether slides, a Jupyter notebook, written notes/documents, or whiteboard sketches. This is something I learned as a grad student and postdoc. In order to get the most out of my meetings with my advisor, I always had something concrete to show them and discuss. Like all PIs, I have several projects constantly floating around in my mind, not just yours, so having a brief presentation prepared will help me give you my best advice. The presentation doesn’t have to be formal, but even so, it’s great practice for organizing your thoughts and presenting your work.</p>
 <p>In addition to preparation, I also expect you to follow through on agreed upon actions and next steps. If you’re looking for software to help with keeping yourself organized, I find <a class="reference external" href="https://trello.com/">Trello</a> to provide a nice, clean interface for keeping track of ongoing tasks.</p>
 </section>
 <section id="receiving-feedback-on-work">
-<h2>Receiving feedback on work<a class="headerlink" href="#receiving-feedback-on-work" title="Permalink to this headline">#</a></h2>
+<h3>Receiving feedback on work<a class="headerlink" href="#receiving-feedback-on-work" title="Link to this heading">#</a></h3>
 <p>You can expect me to provide you with thoughtful feedback on your work in a timely manner. When seeking feedback, which you should for everything coming out of the lab, please provide me with sufficient lead time. For anything with a deadline, like a conference abstract, please provide me with a solid draft at least two weeks in advance. For manuscripts, the process is highly iterative, as there will be multiple drafts. You will usually start by providing me with an outline at least two months in advance. For theses and dissertations, you will start the writing process many months in advance.</p>
 </section>
+<section id="authorship">
+<h3>Authorship<a class="headerlink" href="#authorship" title="Link to this heading">#</a></h3>
+<p>Authorship, and authorship order, is something that should be discussed early on in a project’s life. We should strive to be generous in including co-authors, but also bear in mind that all listed co-authors must have made a tangible intellectual contribution to the work, whether we’re talking about a manuscript, abstract, or poster. An “intellectual contribution” could be assistance with study design, data analysis, or writing. And all co-authors are expected to provide feedback on drafts of outgoing work. In the vast majority of cases, it’s pretty clear-cut who should be included on a paper, and there are no problems. However, to avoid any potential conflicts, it’s best to hash these sorts of things out early.</p>
+<p>Examples of important contributions to our work that that don’t necessarily reach the threshold for authorship (but should always be acknowledged in a paper) are data collection and helping with figures. Students who contribute in these ways should be given opportunities to become more involved in order to get on a paper if they have the interest, time, and ability to, but that’s not always going to be possible, which is also fine.</p>
+</section>
+</section>
+<section id="roles">
+<h2>Roles<a class="headerlink" href="#roles" title="Link to this heading">#</a></h2>
+<hr class="docutils" />
 <section id="principal-investigator">
-<h2>Principal Investigator<a class="headerlink" href="#principal-investigator" title="Permalink to this headline">#</a></h2>
+<h3>Principal Investigator<a class="headerlink" href="#principal-investigator" title="Link to this heading">#</a></h3>
 <p>I aim to provide an overall vision for the lab (see <a class="reference internal" href="lab-philosophy.html#mission"><span class="std std-ref">Mission</span></a>) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see <a class="reference internal" href="lab-philosophy.html#guiding-principles"><span class="std std-ref">Guiding Principles</span></a>). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you.</p>
 <p>Other specific expectations of the PI:</p>
 <ul class="simple">
@@ -471,7 +433,7 @@ title="Print to PDF"
 </ul>
 </section>
 <section id="graduate-students">
-<h2>Graduate students<a class="headerlink" href="#graduate-students" title="Permalink to this headline">#</a></h2>
+<h3>Graduate students<a class="headerlink" href="#graduate-students" title="Link to this heading">#</a></h3>
 <p>You are the driver of your research project. While I (Hyosub) may provide you with a concrete idea for your first project in the lab—and I’m always here to provide guidance—you are always the project leader. Practically speaking, this means you should:</p>
 <ul class="simple">
 <li><p>(PhD students) Develop your dissertation research. In order to defend, you should have at least 3 substantial chapters/publishable manuscripts that answer a big picture question</p></li>
@@ -486,7 +448,7 @@ title="Print to PDF"
 </ul>
 </section>
 <section id="undergraduate-students">
-<h2>Undergraduate students<a class="headerlink" href="#undergraduate-students" title="Permalink to this headline">#</a></h2>
+<h3>Undergraduate students<a class="headerlink" href="#undergraduate-students" title="Link to this heading">#</a></h3>
 <p><strong>Theses students (e.g., KIN 492, NRSC 400, COGS 402)</strong><br />
 If you are completing an undergraduate research experience (e.g., KIN 492), capstone project, or senior thesis, you are also expected to be the driver of your project. While the PI will meet with you regularly and advise you on your project, you will likely receive more direct day-to-day guidance from one of the graduate students in the lab. Understanding that your timeline is compressed (either one or two terms), the scope of your project will be significantly smaller than that of a Master’s student’s. Also, while publication of your project is nowhere near out of the question, it is not a firm expectation as it is for all graduate students. If you are earning course credit, you are also expected to attend lab meetings (as your schedule permits), present at at least one lab meeting, and submit a write-up of your research work by the end of your project.</p>
 <p>For all undergraduate volunteers, the expectations for you are the following:</p>
@@ -498,7 +460,7 @@ If you are completing an undergraduate research experience (e.g., KIN 492), caps
 </ul>
 </section>
 <section id="lab-manager-research-assistants">
-<h2>Lab manager/Research assistants<a class="headerlink" href="#lab-manager-research-assistants" title="Permalink to this headline">#</a></h2>
+<h3>Lab manager/Research assistants<a class="headerlink" href="#lab-manager-research-assistants" title="Link to this heading">#</a></h3>
 <p>As a paid employee, you are expected to perform a series of tasks and duties that are assigned to you by the PI. You are also responsible for keeping track of your hours and what you are working on during them. Specific responsibilities include assisting with, maintaining and/or developing standard operating procedures around the following:</p>
 <ul class="simple">
 <li><p>Setting up behavioral experiments</p></li>
@@ -514,6 +476,7 @@ If you are completing an undergraduate research experience (e.g., KIN 492), caps
 <p>Although you have a more concrete set of day-to-day responsibilities than the trainees in the lab, I also want to provide you with opportunities to learn more about research. You are encouraged to attend lab meetings and participate in all of our discussions. If you are sincerely interested in our research <em>and</em> you have a good handle on all of your other responsibilities, as a rule of thumb, you can spend 10-20% of your work hours on research-related actiivites, which includes participating in lab meetings. However, this sort of flexibility is subject to change depending on how pressing lab-related maintenance is during any given period. As with all other matters, if you have questions or need more guidance, please come speak with me.</p>
 </section>
 </section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -527,7 +490,7 @@ If you are completing an undergraduate research experience (e.g., KIN 492), caps
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./."
         },
         predefinedOutput: true
@@ -535,50 +498,118 @@ If you are completing an undergraduate research experience (e.g., KIN 492), caps
     </script>
     <script>kernelName = 'python3'</script>
 
-              </div>
+                </article>
               
-            </main>
-            <footer class="footer-article noprint">
-                
-    <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="what-to-expect.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">What You Can Expect</p>
-        </div>
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="what-to-expect.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">What You Can Expect</p>
+      </div>
     </a>
-    <a class='right-next' id="next-link" href="onboarding.html" title="next page">
-    <div class="prev-next-info">
+    <a class="right-next"
+       href="onboarding.html"
+       title="next page">
+      <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
         <p class="prev-next-title">Onboarding</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
-            </footer>
-        </div>
-    </div>
-    <div class="footer-content row">
-        <footer class="col footer"><p>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-culture">Lab Culture</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#work-hours">Work Hours</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-meetings">Lab meetings</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#one-on-one-meetings">One-on-one meetings</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#receiving-feedback-on-work">Receiving feedback on work</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#authorship">Authorship</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#roles">Roles</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#principal-investigator">Principal Investigator</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#graduate-students">Graduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#undergraduate-students">Undergraduate students</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lab-manager-research-assistants">Lab manager/Research assistants</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
   
-    By Hyosub Kim<br/>
-  
-      &copy; Copyright 2023. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License..<br/>
-</p>
-        </footer>
-    </div>
+  <div class="footer-item">
     
+<p class="component-author">
+By Hyosub Kim
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023. This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License..
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
 </div>
+          </footer>
+        
 
-
-      </div>
+      </main>
     </div>
+  </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
-
+  <footer class="bd-footer">
+  </footer>
   </body>
 </html>

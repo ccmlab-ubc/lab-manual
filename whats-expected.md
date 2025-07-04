@@ -1,6 +1,7 @@
 # What's Expected of You 
 
 ## Lab Culture
+---
 
 ### Work Hours
 I generally expect all of us to either be in the lab or, occasionally, working somewhere nearby on campus during normal work hours (M-F; 9-5). This is a guiding principle rather than a rigid rule as I know there are times when you may find working elsewhere, like the library, more productive. I also understand that an occasional change of scenery can provide a nice boost in motivation or just help clear the cobwebs. These statements are all true for me as well. However, it's best if most of our hours overlap with each other, as this will facilitate scheduling, promote serendipitous conversations, and foster community. When in doubt about what's best practice, talk to me. 
@@ -35,6 +36,7 @@ Examples of important contributions to our work that that don't necessarily reac
 
 
 ## Roles
+---
 
 ### Principal Investigator
 I aim to provide an overall vision for the lab (see [Mission](mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](guiding-principles)). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 

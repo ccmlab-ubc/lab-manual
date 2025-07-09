@@ -23,6 +23,21 @@ I sometimes repeat myself; I sometimes repeat myelf (sorry). One of the mantras 
 >
 >One of the most important roles of faculty advisors: helping you pick the right problems; topics that are unsolved, do-able in ~3 years, will be of interest to the community and within the student’s skill set.
 
+## What is graduate research about? 
+Along the same lines, I found some great advice about graduate research on Sam Gershman's lab website. I've copied some of my favorite points from his slides below. They all resonate with me, and I definitely recommend everyone go through the entire pdf (found [here](https://gershmanlab.com/docs/advice_young_investigators.pdf)) themselves. The added emphasis to some sentences is mine. 
+
+>Many students struggle to find an appropriate research project when they start grad school. I think this stems from the fact that science is taught as a body of knowledge rather than as a body of epistemic activities. So undergrads leave college “interested” in certain topics, but with little idea about what one does with those interests. **Science is a puzzle-solving activity.** 
+>
+>In an influential paper, Platt (1964) asked why some fields have made faster progress than others. His answer was that the
+successful fields made use of strong inference: the design of
+experiments to discriminate alternative hypotheses. This seems intuitive and obvious, but a lot of science is done without theories that make clear and distinctive predictions. Many scientists seem to have the attitude of “let’s measure stuff, and then from these measurements we can construct a theory.” In my view this random walk in the space of experiments is hopeless.
+>
+>I encourage my students to work on two timescales at the
+same time: at short timescales (months), work on small puzzles,
+while making progress on a large puzzle at longer timescales
+(years). **The psychological impact of having produced intellectual output, no matter how small, is not to be underestimated.** Multiple timescales also help alleviate boredom and frustration.
+
+
 
 ## Reading papers
 
@@ -31,6 +46,8 @@ When I was a postdoc, a labmate once shared this gem with me: "A month in the la
 The point is, you must read papers---lots of them! This is how you familiarize yourself with the relevant scientific literature. It's also how you develop questions, important ones. And it's impossible to have a deep understanding of your research area without extensive reading. Reading is also a great way to learn how to write. I don't know of a single good writer, scientist or not, who is not also a voracious reader. The [Onboarding](onboarding) section has some suggestions on where to begin. I can also help guide you. 
 
 Start your reading journey by choosing a reference manager like [Zotero](https://www.zotero.org/), [Paperpile](https://paperpile.com/), or [JabRef](https://www.jabref.org/). I used to use Zotero and found it very intuitive but have recently switched to JabRef, only because I like its easy integration with $\LaTeX$. Choose whichever one works well for you. 
+
+**N.B.:** *No matter how important reading is (and it obviously is), don't lose sight of the fact that "Science is a puzzle solving activity" (see above). I don't want anyone in the lab to think that they must read X number of papers before they get to **do** science, or that these two activities are even separate. Yes, you must read papers to have a good understanding of the field, and before you embark on a big project, you should know what's been done in that area already. However, you can (and should) turn your reading into science (i.e., puzzle solving): Read, ask questions, and then try to answer them (usually through some combination of sketching on the whiteboard, math, simulation, and/or an experiment), and repeat!*
 
 
 ## Making progress

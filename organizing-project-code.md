@@ -5,7 +5,7 @@ Please be aware that the following set of recommendations is subject to change.
 These practices were adopted from Patrick Mineault's great book [Good Research Code](https://goodresearch.dev/). I've added a few minor details and assume you are interfacing with GitHub through git commands in the Terminal (see [Resources](resources) page). When starting a new project, follow these steps to keep your project organized:  
 
 ## Step 1: Import a simple project template.
-From the Terminal, go to your local GitHub directory (it may just be the directory labeled 'GitHub', as it is on my computer) and import the CCM Lab's cookiecutter project skeleton. For example:
+From the Terminal, go to your local GitHub directory (it may just be the directory labeled 'GitHub', as it is on my computer) and import the CCM Lab's cookiecutter project skeleton ([cookiecutter](https://cookiecutter.readthedocs.io/en/stable/README.html) is a Python package that allows you to create a project template in order to keep folder structures standardized across studies). For example:
 ```
 cd documents/github/projects  
 cookiecutter gh:ccmlab-ubc/project-template
@@ -14,7 +14,7 @@ cookiecutter gh:ccmlab-ubc/project-template
 If you've downloaded this before and are asked if it's okay to delete and download again, choose 'yes'.   
 
 ## Step 2: Follow the directions given in the Terminal.
-AFter importing the project template, you will want to go to your new project directory. Next, you will create a virtual environment for your project (give it same name as project) by typing in: 
+After importing the project template, you will want to go to your new project directory and create a virtual environment there. Virtual environments are important for reproducibility, and for your own sanity, as they help you manage dependcies across all the different Python packages you use. By using virtual environments, you can rest confident that if you need to switch computers, or if someone else wants to recreate your analyses, hours will not need to be wasted fixing dependency issues and things will work seamlessly. Create a virtual environment for your project (give it same name as project) by typing in: 
 
 ```
 conda create --name MY_PROJECT python=3.11

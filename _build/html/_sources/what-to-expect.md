@@ -29,15 +29,11 @@ Along the same lines, I found some great advice about graduate research on Sam G
 >Many students struggle to find an appropriate research project when they start grad school. I think this stems from the fact that science is taught as a body of knowledge rather than as a body of epistemic activities. So undergrads leave college “interested” in certain topics, but with little idea about what one does with those interests. **Science is a puzzle-solving activity.** 
 >
 >In an influential paper, Platt (1964) asked why some fields have made faster progress than others. His answer was that the
-successful fields made use of strong inference: the design of
-experiments to discriminate alternative hypotheses. This seems intuitive and obvious, but a lot of science is done without theories that make clear and distinctive predictions. Many scientists seem to have the attitude of “let’s measure stuff, and then from these measurements we can construct a theory.” In my view this random walk in the space of experiments is hopeless.
+successful fields made use of strong inference: the design of experiments to discriminate alternative hypotheses. This seems intuitive and obvious, but a lot of science is done without theories that make clear and distinctive predictions. Many scientists seem to have the attitude of “let’s measure stuff, and then from these measurements we can construct a theory.” In my view this random walk in the space of experiments is hopeless.
 >
->I encourage my students to work on two timescales at the
-same time: at short timescales (months), work on small puzzles,
-while making progress on a large puzzle at longer timescales
-(years). **The psychological impact of having produced intellectual output, no matter how small, is not to be underestimated.** Multiple timescales also help alleviate boredom and frustration.
+>I encourage my students to work on two timescales at the same time: at short timescales (months), work on small puzzles, while making progress on a large puzzle at longer timescales (years). **The psychological impact of having produced intellectual output, no matter how small, is not to be underestimated.** Multiple timescales also help alleviate boredom and frustration.
 
-
+In other words, grad school and research are largely about finding your way when it comes to solving interesting problems. You build your own curriculum to help you learn how to identify and solve puzzles, both big and small. Solving theory-driven, thematically-linked puzzles that align with the lab's goals is how you build your thesis/dissertation. 
 
 ## Reading papers
 
@@ -47,7 +43,7 @@ The point is, you must read papers---lots of them! This is how you familiarize y
 
 Start your reading journey by choosing a reference manager like [Zotero](https://www.zotero.org/), [Paperpile](https://paperpile.com/), or [JabRef](https://www.jabref.org/). I used to use Zotero and found it very intuitive but have recently switched to JabRef, only because I like its easy integration with $\LaTeX$. Choose whichever one works well for you. 
 
-**N.B.:** *No matter how important reading is (and it obviously is), don't lose sight of the fact that "Science is a puzzle solving activity" (see above). I don't want anyone in the lab to think that they must read X number of papers before they get to **do** science, or that these two activities are even separate. Yes, you must read papers to have a good understanding of the field, and before you embark on a big project, you should know what's been done in that area already. However, you can (and should) turn your reading into science (i.e., puzzle solving): Read, ask questions, and then try to answer them (usually through some combination of sketching on the whiteboard, math, simulation, and/or an experiment), and repeat!*
+**N.B.:** *No matter how important reading is (and it obviously is), don't lose sight of the fact that "Science is a puzzle solving activity" (see above). You don't have to read X number of papers before you get to **do** science, and reading papers and doing science don't have to be seen as separate, either. Yes, you must read papers to have a good understanding of the field, and before you embark on a big project, you should know what's been done in that area already. However, you can (and should) turn your reading into science (i.e., puzzle solving): Read, ask questions, and then try to answer your questions (usually through some combination of sketching on the whiteboard, math, simulation, and/or an experiment), and repeat!*
 
 
 ## Making progress

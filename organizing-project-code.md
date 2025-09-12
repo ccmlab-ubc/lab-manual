@@ -14,7 +14,7 @@ cookiecutter gh:ccmlab-ubc/project-template
 If you've downloaded this before and are asked if it's okay to delete and download again, choose 'yes'.   
 
 ## Step 2: Follow the directions given in the Terminal.
-After importing the project template, you will want to go to your new project directory and create a virtual environment there. Virtual environments are important for reproducibility, and for your own sanity, as they help you manage dependcies across all the different Python packages you use. By using virtual environments, you can rest confident that if you need to switch computers, or if someone else wants to recreate your analyses, hours will not need to be wasted fixing dependency issues and things will work seamlessly. Create a virtual environment for your project (give it same name as project) by typing in: 
+After importing the project template, you will want to go to your new project directory and create a virtual environment there. Virtual environments are important for reproducibility, and for your own sanity, as they help you manage dependencies across all the different Python packages you use. By using virtual environments, you can rest confident that if you need to switch computers, or if someone else wants to recreate your analyses, hours will not need to be wasted fixing dependency issues and things will work seamlessly. Create a virtual environment for your project (give it same name as project) by typing in: 
 
 ```
 conda create --name MY_PROJECT python=3.11

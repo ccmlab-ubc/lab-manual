@@ -10,7 +10,6 @@ Thank you to the following people for sharing their thoughts on how to run a hea
 - [Rich Ivry](https://ivrylab.berkeley.edu/)
 - [Wei Ji Ma](https://www.cns.nyu.edu/malab/lablife.html)
 
-&nbsp;
 
 ## Land Acknowledgment
 

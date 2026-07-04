@@ -4,3 +4,6 @@
 **/.DS_Store
 **/.egg-info
 x
+
+# MyST build outputs
+_build

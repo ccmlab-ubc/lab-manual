@@ -1,10 +1,25 @@
 (reading-list)=
 # Reading List
 
+*Note: This list is a collection of papers that have been important to our lab and the field, more broadly. While certainly not exhaustive, it provides a good starting point for the projects in our lab.*
+
+
 ## Philosophy
 Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). [Neuroscience needs behavior: correcting a reductionist bias](https://doi.org/10.1016/j.neuron.2016.12.041). *Neuron*, 93(3), 480-490.
 
 Marr, D. (2010). [*Vision: A computational investigation into the human representation and processing of visual information*](http://mechanism.ucsd.edu/teaching/f18/David_Marr_Vision_A_Computational_Investigation_into_the_Human_Representation_and_Processing_of_Visual_Information.chapter1.pdf). MIT press.
+
+
+## How-to Model
+Blohm, G., Kording, K. P., & Schrater, P. R. (2020). [A how-to-model guide for neuroscience.](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019.short) eNeuro, 7(1).
+
+Wilson, R. C., & Collins, A. G. (2019). [Ten simple rules for the computational modeling of behavioral data.](https://elifesciences.org/articles/49547) eLife, 8, e49547.  
+
+
+## Reading and writing scientific papers
+Mensh, B., & Kording, K. (2017). [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619). *PLOS Computational Biology*, 13(9), e1005619.
+
+Wallisch, P. (2020). [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119155317.ch9). *Critical Reading Across the Curriculum: Volume 2: Social and Natural Sciences*, 152-164.
 
 
 ## Reviews of motor learning and motor control 
@@ -67,17 +82,17 @@ Tsay, J. S., Kim, H., Haith, A. M., & Ivry, R. B. (2022). [Understanding implici
 Wei, K., & Kording, K. (2009). [Relevance of error: what drives motor adaptation?](https://journals.physiology.org/doi/full/10.1152/jn.90545.2008). *Journal of neurophysiology*, 101(2), 655-664.
 
 
-### Error detection
+## Error detection
 Gaffin-Cahn, E., Hudson, T. E., & Landy, M. S. (2019). [Did I do that? Detecting a perturbation to visual feedback in a reaching task](https://jov.arvojournals.org/article.aspx?articleid=2720496). *Journal of vision*, 19(1), 5-5.
 
 
-### Motor variability
+## Motor variability
 Ranjan, T., Smith, M. A. (2018). [Cancellation of internally-generated errors from the signal driving motor adaptation](http://www.motor-conference.org/abstracts/228.pdf). *Advances in Motor Learning and Motor Control (MLMC)*.
 
 Ranjan, T., Smith, M. A. (2020). [Implicit motor adaptation is driven by motor performance prediction error rather than sensory prediction error](https://drive.google.com/file/d/10lPhN-IBHMitFL6cyYT8Q8FUgKiUqRv-/view). *Advances in Motor Learning and Motor Control (MLMC)*.
 
 
-### Savings
+## Savings
 Haith, A. M., Huberdeau, D. M., & Krakauer, J. W. (2015). [The Influence of Movement Preparation Time on the Expression of Visuomotor Learning and Savings](https://doi.org/10.1523/JNEUROSCI.3869-14.2015). *Journal of Neuroscience*, 35(13), 5109–5117. 
 
 Huberdeau, D. M., Krakauer, J. W., & Haith, A. M. (2019). [Practice induces a qualitative change in the memory representation for visuomotor learning](https://journals.physiology.org/doi/full/10.1152/jn.00830.2018). *Journal of neurophysiology*, 122(3), 1050-1059.
@@ -115,10 +130,7 @@ Mazzoni, P., Shabbott, B., & Cortes, J. C. (2012). [Motor Control Abnormalities 
 Tseng, Y. W., Diedrichsen, J., Krakauer, J. W., Shadmehr, R., & Bastian, A. J. (2007). [Sensory prediction errors drive cerebellum-dependent adaptation of reaching](https://doi.org/10.1152/jn.00266.2007). *Journal of Neurophysiology*, 98(1), 54–62. 
 
 
-## Reading and writing scientific papers
-Mensh, B., & Kording, K. (2017). [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619). *PLOS Computational Biology*, 13(9), e1005619.
 
-Wallisch, P. (2020). [How to Read a Scientific Article: The QDAFI Method of Structured Relevant Gist](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119155317.ch9). *Critical Reading Across the Curriculum: Volume 2: Social and Natural Sciences*, 152-164.
 
 
 

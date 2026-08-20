@@ -1,0 +1,32 @@
+version: 1
+project:
+  title: CCM Lab Manual
+  authors:
+    - name: Hyosub Kim
+  copyright: >-
+    2023. This work is licensed under a Creative Commons Attribution-ShareAlike
+    4.0 International License.
+  github: ccmlab-ubc/lab-manual
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+    - file: lab-philosophy.md
+    - file: what-to-expect.md
+    - file: whats-expected.md
+    - file: onboarding.md
+    - file: reading-list.md
+    - file: resources.md
+    - file: contact-info.md
+    - file: acknowledgments.md
+site:
+  options:
+    favicon: favicon.png
+    folders: true
+  template: book-theme
+  parts:
+    primary_sidebar_footer: "" # Removes the default footer

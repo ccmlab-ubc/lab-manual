@@ -39,7 +39,7 @@ Examples of important contributions to our work that that don't necessarily reac
 ---
 
 ### Principal Investigator
-I aim to provide an overall vision for the lab (see [Mission](#mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](#guiding-principles)). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 
+I aim to provide an overall vision for the lab (see [Mission](mission)) and work collaboratively with you to make sure our research is rigorous, thorough, and clearly communicated (see [Guiding Principles](guiding-principles)). Through our research efforts, I will also work hard to help you realize your potential and successfully reach the next stage of your career. You are in the lab because I believe in you and am excited to work with you. 
 
 Other specific expectations of the PI: 
 - Support everyone in the lab scientifically, professionally, and in the case of graduate trainees, financially

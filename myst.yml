@@ -2,7 +2,7 @@ version: 1
 project:
   title: CCM Lab Manual
   authors:
-    - name: Hyosub Kim
+    - name: # Hyosub Kim
   copyright: >-
     2023. This work is licensed under a Creative Commons Attribution-ShareAlike
     4.0 International License.
@@ -14,19 +14,40 @@ project:
       template: plain_latex_book
       output: exports/book.pdf
   toc:
-    - file: intro.md
-    - file: lab-philosophy.md
-    - file: what-to-expect.md
-    - file: whats-expected.md
-    - file: onboarding.md
-    - file: reading-list.md
-    - file: resources.md
-    - file: contact-info.md
-    - file: acknowledgments.md
+    - file: lab-manual/intro.md
+    - file: lab-manual/lab-philosophy.md
+    - file: lab-manual/what-to-expect.md
+    - file: lab-manual/whats-expected.md
+    - file: lab-manual/onboarding.md
+    - file: lab-manual/reading-list.md
+    - file: lab-manual/resources.md
+    - file: lab-manual/contact-info.md
+    - file: lab-manual/acknowledgments.md
+    - title: Lab Wiki
+      children:
+      - file: lab-wiki/lab-meetings.md
+      - file: lab-wiki/lab-chores.md
+      - file: lab-wiki/google-calendar.md
+      - file: lab-wiki/contact-list.md
+      - file: lab-wiki/current-and-past-studies.md
+      - file: lab-wiki/onboarding.md
+      - file: lab-wiki/building-KINARM-task-programs.md
+      - file: lab-wiki/recruiting-participants.md
+      - file: lab-wiki/participant-database.md
+      - file: lab-wiki/running-experiments.md
+      - file: lab-wiki/consent-payment-receipt-forms.md
+      - file: lab-wiki/data-management.md
+      - file: lab-wiki/KINARM-data-analysis.md
+      - file: lab-wiki/organizing-project-code.md
+      - file: lab-wiki/collaborating-with-git-and-github.md
+      - file: lab-wiki/resources.md
+
+
 site:
   options:
     favicon: favicon.png
     folders: true
+    logo: favicon.png
   template: book-theme
   parts:
     primary_sidebar_footer: ""

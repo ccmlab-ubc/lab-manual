@@ -45,9 +45,9 @@ project:
 
 site:
   options:
-    favicon: ccmfavicon.svg
+    favicon: ccmfavicon.png
     folders: true
-    logo: ccmfavicon.svg
+    logo: ccmfavicon.png
   template: book-theme
   parts:
     primary_sidebar_footer: ""

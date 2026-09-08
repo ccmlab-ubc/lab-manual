@@ -91,7 +91,7 @@ Example: P02_Baseline
 **Onboarding checklist for new lab members:**
 
 - Read this document
-- Check dropbox access (You can find log in details under Resource Access in our [Resources](lab-wiki/resources))
+- Check dropbox access (You can find log in details under Resource Access in our [Resources](/lab-wiki/resources))
 - Shadow an experienced lab member for at least one full data-collection-to-backup cycle before collecting data independently
 
 **Offboarding checklist when a lab member leaves:**

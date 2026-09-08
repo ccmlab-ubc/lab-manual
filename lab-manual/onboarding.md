@@ -1,7 +1,7 @@
 (onboarding)=
 # Onboarding
 
-You can find out about onboarding steps, SOPs regarding running experiments and data and code management, and a whole lot more in our [lab wiki](lab-wiki/wiki-intro).
+You can find out about onboarding steps, SOPs regarding running experiments and data and code management, and a whole lot more in our [lab wiki](/lab-wiki/wiki-intro).
 
 <!-- ![](underconstruction.svg)
 

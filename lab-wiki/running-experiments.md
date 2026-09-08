@@ -112,7 +112,7 @@ Write subject ID on the top right-hand corner of the consent form.
  - Leave subject ID as randomly generated
 3. Click into "Custom Tasks" and select your task
 4. Always calibrate before running each task by clicking “Calibrate”, ensure handles are not being grasped, then press “Reset zero”. The red X should turn into a green check
-5. Once task is complete, follow our [Data Management](lab-wiki/data-management) page to understand how/where data is stored
+5. Once task is complete, follow our [Data Management](/lab-wiki/data-management) page to understand how/where data is stored
 
 ---------
 ## **Finishing the Experiment** ##

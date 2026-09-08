@@ -4,7 +4,7 @@
 
 Here's a skeleton-guide to emailing and scheduling participants for studies! There are email scripts that might be relevant, as well as some checklists for making sure everything is updated as needed.
 
-All participant emails should be sent out from the lab email (ccm.lab@ubc.ca). Instructions on how to access the email are [here](https://osf.io/qbze9/wiki?wiki=8a7wm).
+All participant emails should be sent out from the lab email (ccm.lab@ubc.ca). Instructions on how to access the email are [here](lab-wiki/resources).
 
 There are email scripts in the drafts of the lab email, but you can also find them linked below. Feel free to play around with formatting and wording as you see fit.
 

@@ -23,7 +23,9 @@ project:
     - file: lab-manual/resources.md
     - file: lab-manual/contact-info.md
     - file: lab-manual/acknowledgments.md
-    - title: Lab Wiki
+    
+    - file: lab-wiki/wiki-intro.md
+      title: Lab Wiki
       children:
       - file: lab-wiki/lab-meetings.md
       - file: lab-wiki/lab-chores.md

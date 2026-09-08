@@ -7,7 +7,7 @@
 ```
 
 ## **create_csv Explained** ##
-- Running the script will produce a CSV of their trial-by-trial data per participant. These should be kept local and are not stored on Dropbox (see [Data Management](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/data-management) for more information)
+- Running the script will produce a CSV of their trial-by-trial data per participant. These should be kept local and are not stored on Dropbox (see [Data Management](lab-wiki/data-management) for more information)
 
 - create_csv should be run on the testing computer only
 

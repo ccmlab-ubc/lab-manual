@@ -12,10 +12,11 @@
  6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
  7. Provide supervisor/lab manager with your contact info (UBC email, CWL, gmail address, phone). The first two are required to grant you access to the lab email. The supervisor/lab manager will put in a request to our IT person, Robert Lovin.
  8. Send Hyosub a photo (best if .jpg or .png and square dimensions) of yourself and short bio so he can add you to the [lab website](https://ccmlab.org/).
- 9. Go to the [lab reading list](https://ccmlab-ubc.github.io/lab-manual/lab-manual/reading-list) and start reading the review article by Kim, Avraham, and Ivry (2021), and the first 20 pages of the review on motor learning by Krakauer et al (2019).
- 10. Visit the [Data Management](https://ccmlab-ubc.github.io/lab-manual/lab-wiki/data-management) to understand our data storage and Dropbox.
- 11. Check out the [Resources](https://ccmlab-ubc.github.io/lab-manual/lab-manual/resources) page and start teaching yourself to code and any other necessary skills for your project.
- 12. If you will be interfacing with our robotic testing device (KinArm Endpoint Lab), start familiarizing yourself with how to safely and effectively use it by reading this [welcome letter](extra/BT088 Welcome Letter.Kim.16-Jan-26.pdf) and read through the sections on safe usage in the [Operator Guide](extra/Kinarm-Lab-Operator-Guide-Dexterit-E-3.11-End-Point-PN-14332-Rev-4.pdf) provided by KinArm. Next, go through [KinArm Academy](https://kinarm.com/kinarm-academy/) for Basic Researchers to learn how to program tasks!
+ 9. Request access to the [Resource Access document](lab-wiki/resources) by contacting the Lab Manager/Supervisor.
+ 10. Go to the [lab reading list](lab-manual/reading-list) and start reading the review article by Kim, Avraham, and Ivry (2021), and the first 20 pages of the review on motor learning by Krakauer et al (2019).
+ 11. Visit the [Data Management](lab-wiki/data-management) to understand our data storage and Dropbox.
+ 12. Check out the [Resources](lab-manual/resources) page and start teaching yourself to code and any other necessary skills for your project.
+ 13. If you will be interfacing with our robotic testing device (KinArm Endpoint Lab), start familiarizing yourself with how to safely and effectively use it by reading this [welcome letter](extra/BT088 Welcome Letter.Kim.16-Jan-26.pdf) and read through the sections on safe usage in the [Operator Guide](extra/Kinarm-Lab-Operator-Guide-Dexterit-E-3.11-End-Point-PN-14332-Rev-4.pdf) provided by KinArm. Next, go through [KinArm Academy](https://kinarm.com/kinarm-academy/) for Basic Researchers to learn how to program tasks!
 
 
 ### **Research Assistant Training for Data Collection**

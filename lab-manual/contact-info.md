@@ -2,8 +2,8 @@
 
 ## Hyosub
 ---
-- Lab Spaces: Osborne - Unit 2, Rooms 202 and 203  
-- Office: Osborne - Unit 1, Room 214  
+- Lab Spaces: Gateway Health Building - Room 2101
+- Office: Gateway Health Building - Room 6247
 - Email: hyosub.kim@ubc.ca  
 - Office Phone: 604-822-9964 
 

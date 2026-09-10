@@ -29,7 +29,9 @@ These naming conventions are established to avoid mismatches (for example when u
 | Targets/TP table  | UPPERCASE\_WITH_UNDERSCORES | UPPERCASE_WITH_UNDERSCORES |
 | Events | E_UPPERCASE_WITH\_UNDERSCORES, prefixed with "E_"| UPPERCASE_WITH\_UNDERSCORES, same as constant name minus the "E_" prefix |
 ---
-We also standardize a few commonly used variable names to help with readability and debugging. **See our current list of standardized variable names below:**
+We also standardize a few commonly used variable names to help with readability and debugging. 
+
+```{admonition} **See our current list of standardized variable names below:**
 
 | **Item** | **Label** |**Constant Name** |
 | ----------- |  :-----------: | :------------: |
@@ -40,7 +42,7 @@ We also standardize a few commonly used variable names to help with readability 
 |Movement Onset|MOVEMENT_ONSET|E_MOVEMENT_ONSET|
 |Movement End|MOVEMENT_END|E_MOVEMENT_END|
 |End of Trial|TRIAL_END| E_TRIAL_END|
-
+```
 ---
 ##  ⚠️Considerations When Building⚠️
 - **Emergency Stop:** Ensure the emergency stop button is readily accessible when testing new tasks! If you are messing with forces or loads, this is commonly where bad things may happen...

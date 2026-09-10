@@ -118,7 +118,7 @@ To prevent merge conflicts from occurring, however, be sure to pull from the mai
 
 ----
 
-## **Our Collaboration Workflow**
+```{admonition} **Our Collaboration Workflow**
 Now that you have a gist on how Git works. Follow this workflow when collaborating on any repos within our lab:
 1. Run `git clone <SSH-address>` (You only need to run this for the first time once)
 2. Run `git pull` to update your local with the remote repo
@@ -130,3 +130,4 @@ Now that you have a gist on how Git works. Follow this workflow when collaborati
 8. Open GitHub and follow the directions for making the pull request (from your branch into main)
 9. Now to delete your local branch, run `git switch main` then run `git branch -d <branch-name>`
 10. Once you need to make more changes, repeat steps 2-9!
+```

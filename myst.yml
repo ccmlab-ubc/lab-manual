@@ -27,8 +27,7 @@ project:
     - file: lab-wiki/wiki-intro.md
       title: Lab Wiki
       children:
-      - file: lab-wiki/lab-meetings.md
-      - file: lab-wiki/lab-chores.md
+      - file: lab-wiki/lab-meetings-and-chores.md
       - file: lab-wiki/google-calendar.md
       - file: lab-wiki/contact-list.md
       - file: lab-wiki/current-and-past-studies.md

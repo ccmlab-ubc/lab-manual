@@ -1,6 +1,16 @@
-# Lab Chores
+# **Lab Meetings / Chores** #
 
 
+----------
+# **Meeting** # 
+```{admonition} Normal time will be **Thursdays, 10:30 - 12:00**
+:class: tip
+```
+
+[Check the schedule here!](https://docs.google.com/spreadsheets/d/1ESwUwYkROFKr8PR75Isut3-TbShhzkb4PKPybrzAcQ4/edit?gid=84393634#gid=84393634)
+
+----------
+# **Chores** # 
 - Maintain ccmlab-members@lists.ubc.ca mailing list
     - Send weekly updates on lab meetings: who/what/where/when - **Lab Manager**
 - Whoever is presenting at lab meeting should get there 10-15 minutes early to make sure tables, tech, etc. are ready to go right at start of meeting. On weeks where it's more a group discussion, someone should act as default person for this

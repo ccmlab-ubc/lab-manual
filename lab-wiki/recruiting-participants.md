@@ -14,8 +14,6 @@ There are email scripts in the drafts of the lab email, but you can also find th
 
 ### **Step 1: Initial Contact**
 
-#### **Email Script**
-
  - [Reaching out from potential participants list](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.0#heading=h.976gex85ylve)
  - [Replying to emails from interested participants](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.0#heading=h.35nhk09pdak6)
 
@@ -27,8 +25,6 @@ There are email scripts in the drafts of the lab email, but you can also find th
 ---
 
 ### **Step 2: Coordinating with Participants**
-
-#### **Email Scripts**
 
 Every recruitment process will be different, and this will largely be some standard customer service stuff. Ultimately we want participants to possibly come back for future studies, so be polite, thank them for their interest, apologize if we're replying late, etc.
 
@@ -47,8 +43,6 @@ Scripts for some basic possible emails are linked below.
 
 Yay!!
 
-#### **Email Scripts**
-
 - [Confirming a study](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.ma1qez96l2w)
 
 #### **Checklist**
@@ -65,9 +59,9 @@ Yay!!
 
 ### **Step 4: Reminders**
 
-To prevent booked participants from not showing up, reminder emails should be sent the workday before participants' sessions (i.e. day prior, or Friday before the following Monday). Lab manager will keep an eye out and send these.
+To prevent booked participants from not showing up, reminder emails should be sent the workday before participants' sessions (i.e. day prior, or Friday before the following Monday).
 
-#### [**Email Script**](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.94m9vexulhlg)
+- [Reminders script](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.94m9vexulhlg)
 
 #### **Checklist**
  - If there has been contact (including if participant has been in the lab for a session) <= 2 days before session, then no need to contact for reminder.
@@ -75,8 +69,6 @@ To prevent booked participants from not showing up, reminder emails should be se
 ---
 
 ### **Cancellations, Reschedules, No-Shows, etc.**
-
-#### **Email Scripts**
 
  - [Participant asks to reschedule](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.welkiuywe8wm#heading=h.7nv5y15cvzxo)
  - [Participant asks to cancel](https://docs.google.com/document/d/1KE0tIkzXkk4YI2-K3VyGbz__EZ1v4JfHGkpFRCLinQw/edit?tab=t.welkiuywe8wm#heading=h.xiktkkkcx6z2)

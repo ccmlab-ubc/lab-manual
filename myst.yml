@@ -36,7 +36,6 @@ project:
       - file: lab-wiki/recruiting-participants.md
       - file: lab-wiki/participant-database.md
       - file: lab-wiki/running-experiments.md
-      - file: lab-wiki/consent-payment-receipt-forms.md
       - file: lab-wiki/data-management.md
       - file: lab-wiki/KINARM-data-analysis.md
       - file: lab-wiki/organizing-project-code.md

@@ -8,9 +8,9 @@
  2. Submit an Issue (click on Octocat in upper right of the lab manual) regarding the lab manual—i.e., provide a suggestion, comment, or raise a question. You need a [GitHub](https://github.com/) account in order to do this, so if you don’t have one, create one.
  3. Accept eventual invitation to join CCM Lab organization on GitHub.
  4. Complete [TCPS 2 training](http://tcps2core.ca/welcome) in order to be added to our human ethics protocol.
- 5. Add yourself to eligible list of RISe researchers “by emailing the following information to [RISe Support](https://www.rise.ubc.ca/accessing-rise) @ risesupport@ors.ubc.ca: Full Name (Including Middle Initial), Department (or affiliation with the University), UBC Position, Email Address, Phone Number and UBC employee number (if applicable). Once an account is created, new users will receive their researcher numbers via email.”
+ 5. Add yourself to eligible list of RISe researchers by following the Self-Registering steps at: [RISe Access](https://www.rise.ubc.ca/access-rise). Once an account is created, new users will receive their researcher numbers via email.
  6. Once your RISe account is created, let Hyosub know so he can add you to our study protocols.
- 7. Provide supervisor/lab manager [*(current lab manager is Eric)*](contact-list) with your contact info (UBC email, CWL, gmail address, phone). The first two are required to grant you access to the lab email. The supervisor/lab manager will put in a request to our IT person, Robert Lovin.
+ 7. Provide supervisor/lab manager [*(current lab manager is Eric)*](contact-list) with your contact info (UBC email, CWL, gmail address, phone). The first two are required to grant you access to the mailing list and lab email. The supervisor/lab manager will put in a request to our IT person, Robert Lovin.
  8. Send Hyosub a photo (best if .jpg or .png and square dimensions) of yourself and short bio (year, major, and hobbies) so he can add you to the [lab website](https://ccmlab.org/).
  9. Request access to the [Resource Access document](/lab-wiki/resources) by contacting the Lab Manager/Supervisor.
  10. Go to the [lab reading list](/lab-manual/reading-list) and start reading the review article by Kim, Avraham, and Ivry (2021), and the first 20 pages of the review on motor learning by Krakauer et al (2019).

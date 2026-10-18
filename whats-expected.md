@@ -8,11 +8,19 @@ I generally expect all of us to either be in the lab or, occasionally, working s
 
 Beyond your set schedule, what's most important about your working hours is the depth of your attention and focus on the task at hand. How to best direct your efforts, minimize distraction, and maintain focus is something I've thought and read an awful lot about. While I still have lots of room for improvement, I'm happy to provide any guidance I can to you around this topic. 
 
-On the topic of focus and deep work, since we're currently sharing Dr. Romeo Chua's lab space, we have to be extra conscientious about not holding conversations in the lab. Do not disturb the other trainees in the lab. You can take your conversations to the "closet" or the lower level of Osborne. Please bring it to my attention if there are issues around too many distractions in the lab. 
+### Lab space
+On the topic of focus and deep work, be conscientious of the fact that our lab is a shared space and we must facilitate everyone's ability to focus and work while in there. The overarching principle is that the lab is, above all else, a professional workspace, so please always treat it as such. Concretely:
+
+- Keep the KinArm and tablet set-ups clean and do not eat or drink near the testing equipment.
+- Clean up after yourselves. 
+- No alcohol in the lab.
+- Don't hold loud conversations or meetings in the lab while others are working. 
+
+Please bring it to my attention if there are issues around too many distractions in the lab. 
 
 
 ### Lab meetings
-We have weekly 1.5 hour lab meetings. Everyone is expected to attend and, more importantly, participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending. 
+We have weekly 1.5 hour lab meetings. Everyone is expected to be there on time and participate. Participation can come in many forms, including asking questions, presenting, and providing feedback. At a bare minimum, participation means being present and not being distracted by your phones, emails, texts, etc., out of respect for the speaker and everyone else attending. Whoever is presenting should arrive early and make sure they have their presentation ready at start time. We want to make the most of everyone's time during these meetings, and timeliness, preparation, and attention are pre-requisites for meaningful exchanges. 
 
 We'll usually set aside time at the beginning of the meeting to catch up on everyone's projects. Each week, a different member will lead the meeting. We'll likely alternate between project discussions and journal club. However, we'll also have dedicated weeks for practice talks for conferences and other science-related topics, such as best practices for coding, peer reviewing each other's writing, and other ideas that we come up with. 
 

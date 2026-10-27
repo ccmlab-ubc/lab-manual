@@ -14,3 +14,7 @@
 | Lisa Liu | Undergraduate | liul@student.ubc.ca | 
 | Yoyo Luk | Undergraduate | yoyoluk@student.ubc.ca |
 | Abby Sun | Undergraduate | asun19@student.ubc.ca |
+| Noel Wai | Undergraduate | noelwai@student.ubc.ca |
+| Emilia Banmann | Undergraduate | ebanmann@student.ubc.ca |
+| Angelina Makkar | Undergraduate | amakka01@student.ubc.ca |
+| Niall Calvert | Undergraduate | ncalvert@student.ubc.ca |

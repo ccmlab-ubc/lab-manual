@@ -49,6 +49,32 @@ We also standardize a few commonly used variable names to help with readability 
 
 - **Feed-forward Estimate:** KINARM by default uses a feed-forward estimate (value of 0.02) for the display of hand feedback. If your study requires this removal, look into `Hand_Feedback` block by clicking the ↓ arrow, then click the bottom left lock to unlock the `FeedFwdArm` script, then set `feedfwd = 0` on line 32 and save.
 
+- **Trial Schedules:** For most experiments, Dexterit-E’s Block Table is sufficient to create the trial schedule that you want. However, if you find yourself unable to create your desired schedule with the Block Table, we have developed other solutions. To determine which solution is for you, please use the decision chart below:
+```{mermaid}
+---
+config:
+  layout: fixed
+  look: neo
+  theme: redux-color
+---
+flowchart LR
+    A@{ label: "Do I need a specific trial pattern that can't fit into each Block Table row?" } -- No --> n1["Do I need to randomize between blocks?"]
+    n1 -- No --> n2["Use Block Table"]
+    A -- Yes --> n4["Am I in the testing phase that needs multiple test schedules?"]
+    n1 -- Yes --> n4
+    n4 -- No --> B["Use Custom TP Sequence w/ Built-in Matlab Function"]
+    n4 -- Yes --> n3["Use Custom TP Sequence w/ File Input"]
+
+    A@{ shape: rounded}
+    n1@{ shape: rounded}
+    n2@{ shape: rounded}
+    n4@{ shape: rounded}
+    B@{ shape: rounded}
+    n3@{ shape: rounded}
+    style n2 fill:#BBDEFB,color:#000000
+    style B fill:#BBDEFB,color:#000000
+    style n3 fill:#BBDEFB,color:#000000
+```
 ---
 ## **Trial Structure — Stateflow & Simulink Conventions** ##
 - Treat "return to home" as part of the next trial, not the ending of the current trial.
